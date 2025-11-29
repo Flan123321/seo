@@ -1,0 +1,82 @@
+[
+    {
+        "slug": "medida-neumaticos-toyota-corolla-2015",
+        "primary_keyword": "medida de neumáticos Toyota Corolla 2015",
+        "seo_title": "Neumáticos Toyota Corolla 2015: Medida Exacta y Mejores Opciones",
+        "meta_description": "Descubre la medida exacta de neumáticos para Toyota Corolla 2015. Comparativa de marcas, precios y rendimiento. ¡Compra los correctos!",
+        "search_intent": "Transaccional",
+        "dynamic_data": {
+            "vehiculo": "Toyota Corolla",
+            "ano": "2015",
+            "medida_original": "205/55 R16",
+            "medida_alternativa": "195/65 R15",
+            "presion_recomendada": "32 PSI delanteros / 30 PSI traseros"
+        },
+        "hook_intro": "Necesitas cambiar los neumáticos de tu Corolla 2015 pero no sabes qué medida comprar. Si te equivocas, afectas el consumo de combustible y la seguridad. La medida original es 205/55 R16, pero hay alternativas según la versión. Aquí está todo lo que necesitas saber antes de comprar.",
+        "monetization_focus": "Neumáticos Michelin o Bridgestone para Corolla"
+    },
+    {
+        "slug": "llantas-ford-f150-2018-medida",
+        "primary_keyword": "medida de llantas Ford F-150 2018",
+        "seo_title": "Llantas Ford F-150 2018: Medida Original y Upgrades",
+        "meta_description": "Guía completa de medidas de llantas para Ford F-150 2018. Desde originales hasta upgrades off-road. ¡Elige las perfectas para tu uso!",
+        "search_intent": "Transaccional",
+        "dynamic_data": {
+            "vehiculo": "Ford F-150",
+            "ano": "2018",
+            "medida_original": "265/70 R17",
+            "medida_upgrade": "275/65 R18 o 285/70 R17",
+            "presion_recomendada": "35 PSI (carga normal)"
+        },
+        "hook_intro": "Tu F-150 2018 necesita llantas nuevas y quieres saber si puedes poner medidas más grandes sin modificar la suspensión. La medida de fábrica es 265/70 R17, pero puedes subir a 275/65 R18 sin problemas. Aquí está la guía completa con pros y contras de cada opción.",
+        "monetization_focus": "Llantas todo terreno BFGoodrich o Goodyear"
+    },
+    {
+        "slug": "neumaticos-honda-civic-2020-medida",
+        "primary_keyword": "qué neumáticos lleva Honda Civic 2020",
+        "seo_title": "Neumáticos Honda Civic 2020: Medida y Mejores Marcas",
+        "meta_description": "Medida exacta de neumáticos para Honda Civic 2020. Comparativa de rendimiento, durabilidad y precio. ¡Invierte inteligentemente!",
+        "search_intent": "Transaccional",
+        "dynamic_data": {
+            "vehiculo": "Honda Civic",
+            "ano": "2020",
+            "medida_original": "215/55 R16 (LX) o 235/40 R18 (Sport)",
+            "medida_alternativa": "No recomendado cambiar",
+            "presion_recomendada": "33 PSI todas las ruedas"
+        },
+        "hook_intro": "Vas a comprar neumáticos para tu Civic 2020 pero hay dos medidas diferentes según la versión. El LX usa 215/55 R16 mientras que el Sport usa 235/40 R18. Si pones la medida incorrecta, el velocímetro marcará mal y afectarás el rendimiento. Aquí está cómo identificar cuál necesitas.",
+        "monetization_focus": "Neumáticos Yokohama o Continental para Civic"
+    },
+    {
+        "slug": "llantas-chevrolet-silverado-1500-2019",
+        "primary_keyword": "medida llantas Chevrolet Silverado 1500 2019",
+        "seo_title": "Llantas Silverado 1500 2019: Medida y Opciones Off-Road",
+        "meta_description": "Guía definitiva de llantas para Silverado 1500 2019. Medidas originales, upgrades y las mejores marcas para trabajo y off-road.",
+        "search_intent": "Transaccional",
+        "dynamic_data": {
+            "vehiculo": "Chevrolet Silverado 1500",
+            "ano": "2019",
+            "medida_original": "255/70 R17",
+            "medida_upgrade": "275/60 R20 o 285/70 R17",
+            "presion_recomendada": "35 PSI (vacía) / 40 PSI (cargada)"
+        },
+        "hook_intro": "Tu Silverado 1500 2019 necesita llantas nuevas y no sabes si invertir en medidas más grandes para off-road. La medida de fábrica 255/70 R17 es perfecta para uso mixto, pero si haces trabajo pesado o aventuras, considera 285/70 R17. Aquí está el análisis completo de cada opción.",
+        "monetization_focus": "Llantas Firestone o Cooper para trabajo pesado"
+    },
+    {
+        "slug": "neumaticos-nissan-sentra-2017-medida",
+        "primary_keyword": "medida de neumáticos Nissan Sentra 2017",
+        "seo_title": "Neumáticos Nissan Sentra 2017: Medida Correcta y Precios",
+        "meta_description": "Medida exacta de neumáticos para Nissan Sentra 2017. Comparativa de marcas económicas vs premium. ¡Ahorra sin sacrificar seguridad!",
+        "search_intent": "Transaccional",
+        "dynamic_data": {
+            "vehiculo": "Nissan Sentra",
+            "ano": "2017",
+            "medida_original": "205/55 R16",
+            "medida_alternativa": "195/60 R16 (menor costo)",
+            "presion_recomendada": "32 PSI todas las ruedas"
+        },
+        "hook_intro": "Buscas neumáticos para tu Sentra 2017 y los precios varían enormemente. La medida correcta es 205/55 R16, pero ¿vale la pena pagar el doble por Michelin vs una marca económica? Aquí está el análisis real de durabilidad, seguridad y costo por kilómetro de cada opción.",
+        "monetization_focus": "Neumáticos económicos Hankook o Kumho"
+    }
+]

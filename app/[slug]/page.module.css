@@ -1,0 +1,175 @@
+.page {
+    min-height: 100vh;
+}
+
+/* Breadcrumb */
+.breadcrumb {
+    padding: 1.5rem 0;
+    font-size: 0.875rem;
+    color: var(--text-secondary);
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.breadcrumb a {
+    color: var(--primary);
+    transition: color 0.2s ease;
+}
+
+.breadcrumb a:hover {
+    color: var(--primary-dark);
+}
+
+.separator {
+    color: var(--text-secondary);
+}
+
+/* Hero */
+.hero {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 3rem 0;
+}
+
+.badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 1rem;
+    border-radius: 2rem;
+    font-size: 0.875rem;
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+    color: white;
+}
+
+.title {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    line-height: 1.2;
+}
+
+.meta {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    font-size: 0.875rem;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.intent {
+    background: rgba(255, 255, 255, 0.2);
+    padding: 0.25rem 0.75rem;
+    border-radius: 1rem;
+}
+
+.keyword {
+    font-style: italic;
+}
+
+/* Content */
+.content {
+    padding: 3rem 0;
+}
+
+.intro {
+    background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+    color: white;
+    padding: 2rem;
+    border-radius: 12px;
+    margin-bottom: 3rem;
+    box-shadow: 0 8px 16px rgba(245, 87, 108, 0.2);
+}
+
+.hookText {
+    font-size: 1.125rem;
+    line-height: 1.8;
+    margin: 0;
+    color: white;
+}
+
+.dataSection {
+    margin-bottom: 3rem;
+}
+
+.sectionTitle {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    color: var(--text-primary);
+}
+
+.ctaSection {
+    background: var(--bg-secondary);
+    padding: 3rem;
+    border-radius: 16px;
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.ctaTitle {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: var(--text-primary);
+}
+
+.ctaText {
+    font-size: 1.125rem;
+    color: var(--text-secondary);
+    margin-bottom: 2rem;
+}
+
+.disclaimer {
+    font-size: 0.875rem;
+    color: var(--text-secondary);
+    margin-top: 1.5rem;
+    font-style: italic;
+    opacity: 0.8;
+}
+
+.backSection {
+    text-align: center;
+    padding: 2rem 0;
+}
+
+.backLink {
+    color: var(--primary);
+    font-weight: 600;
+    font-size: 1rem;
+    transition: color 0.2s ease;
+}
+
+.backLink:hover {
+    color: var(--primary-dark);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .title {
+        font-size: 1.75rem;
+    }
+
+    .meta {
+        flex-wrap: wrap;
+    }
+
+    .intro {
+        padding: 1.5rem;
+    }
+
+    .hookText {
+        font-size: 1rem;
+    }
+
+    .sectionTitle {
+        font-size: 1.5rem;
+    }
+
+    .ctaSection {
+        padding: 2rem 1.5rem;
+    }
+
+    .ctaTitle {
+        font-size: 1.5rem;
+    }
+}

@@ -1,0 +1,242 @@
+[
+    {
+        "slug": "convertir-gramos-azucar-a-cucharadas",
+        "primary_keyword": "cuántas cucharadas son 100 gramos de azúcar",
+        "seo_title": "Gramos de Azúcar a Cucharadas: Conversión Exacta",
+        "meta_description": "Convierte gramos de azúcar a cucharadas con precisión. Tabla completa y calculadora. ¡Endulza correctamente!",
+        "search_intent": "Informacional",
+        "dynamic_data": {
+            "from_unit": "Gramos",
+            "to_unit": "Cucharadas",
+            "ingredient": "Azúcar Blanca",
+            "conversion_factor": "12.5g por cucharada",
+            "precision_level": "Media - Varía según compactación"
+        },
+        "hook_intro": "La receta dice '100g de azúcar' pero solo tienes cucharas. ¿Cuántas usar? 100g = 8 cucharadas aproximadamente. Pero el azúcar varía: compactada tiene más gramos. Para repostería precisa, usa balanza. Para cocina general, 12.5g por cucharada funciona. Aquí está la tabla completa.",
+        "monetization_focus": "Balanza digital de cocina de precisión"
+    },
+    {
+        "slug": "convertir-mililitros-leche-a-tazas",
+        "primary_keyword": "cuántas tazas son 500 ml de leche",
+        "seo_title": "Mililitros de Leche a Tazas: Conversión Precisa",
+        "meta_description": "Convierte ml de leche a tazas fácilmente. Tabla de conversión y equivalencias. ¡Mide perfecto!",
+        "search_intent": "Informacional",
+        "dynamic_data": {
+            "from_unit": "Mililitros",
+            "to_unit": "Tazas",
+            "ingredient": "Leche",
+            "conversion_factor": "240ml por taza",
+            "precision_level": "Alta - Líquidos son precisos"
+        },
+        "hook_intro": "Tu receta americana dice '2 cups of milk' pero tu jarra está en ml. ¿Cuánto es? 1 taza = 240ml. Entonces 500ml = 2.08 tazas (aproximadamente 2 tazas). Los líquidos son fáciles de convertir. Aquí está la tabla completa para todas las medidas.",
+        "monetization_focus": "Jarra medidora con doble escala ml/tazas"
+    },
+    {
+        "slug": "convertir-libras-carne-a-kilos",
+        "primary_keyword": "cuántos kilos son 2 libras de carne",
+        "seo_title": "Libras de Carne a Kilos: Conversión para Cocina",
+        "meta_description": "Convierte libras de carne a kilos rápidamente. Tabla de conversión y porciones. ¡Compra la cantidad correcta!",
+        "search_intent": "Informacional",
+        "dynamic_data": {
+            "from_unit": "Libras",
+            "to_unit": "Kilogramos",
+            "ingredient": "Carne (cualquier tipo)",
+            "conversion_factor": "1 libra = 0.453592 kg",
+            "precision_level": "Alta - Conversión estándar"
+        },
+        "hook_intro": "La receta dice '2 pounds of beef' y en el supermercado venden por kilos. ¿Cuánto comprar? 2 libras = 0.907 kg (aproximadamente 900g). Para facilitar: 1 libra ≈ 450g. Aquí está la tabla completa y cómo calcular porciones.",
+        "monetization_focus": "Balanza de cocina digital con conversión lb/kg"
+    },
+    {
+        "slug": "convertir-onzas-liquidas-a-mililitros",
+        "primary_keyword": "cuántos ml son 8 onzas líquidas",
+        "seo_title": "Onzas Líquidas a Mililitros: Conversión Exacta",
+        "meta_description": "Convierte fl oz a ml con precisión. Tabla completa para bebidas y recetas. ¡Mide líquidos correctamente!",
+        "search_intent": "Informacional",
+        "dynamic_data": {
+            "from_unit": "Onzas Líquidas (fl oz)",
+            "to_unit": "Mililitros",
+            "ingredient": "Líquidos en general",
+            "conversion_factor": "1 fl oz = 29.5735 ml",
+            "precision_level": "Alta - Estándar internacional"
+        },
+        "hook_intro": "Tu botella dice '8 fl oz' pero necesitas saber cuántos ml son. 8 onzas líquidas = 237ml (aproximadamente 240ml o 1 taza). Para facilitar: 1 fl oz ≈ 30ml. Aquí está la tabla completa para todas las medidas comunes.",
+        "monetization_focus": "Vaso medidor con múltiples escalas"
+    },
+    {
+        "slug": "convertir-cucharaditas-sal-a-gramos",
+        "primary_keyword": "cuántos gramos son 2 cucharaditas de sal",
+        "seo_title": "Cucharaditas de Sal a Gramos: Conversión Precisa",
+        "meta_description": "Convierte cucharaditas de sal a gramos. Tabla de conversión y control de sodio. ¡Sazona correctamente!",
+        "search_intent": "Informacional",
+        "dynamic_data": {
+            "from_unit": "Cucharaditas",
+            "to_unit": "Gramos",
+            "ingredient": "Sal de Mesa",
+            "conversion_factor": "6g por cucharadita",
+            "precision_level": "Media - Varía según tipo de sal"
+        },
+        "hook_intro": "La receta dice '1 teaspoon of salt' pero quieres controlar el sodio exacto. 1 cucharadita de sal = 6g (2,300mg de sodio). La sal fina pesa más que la gruesa en el mismo volumen. Para control de sodio, usa balanza. Aquí está la tabla completa.",
+        "monetization_focus": "Sal baja en sodio + balanza de precisión"
+    },
+    {
+        "slug": "convertir-tazas-arroz-crudo-a-cocido",
+        "primary_keyword": "cuánto rinde 1 taza de arroz crudo",
+        "seo_title": "Arroz Crudo a Cocido: Cuánto Rinde y Conversión",
+        "meta_description": "Descubre cuánto rinde el arroz crudo al cocinarse. Tabla de conversión y porciones. ¡Cocina la cantidad perfecta!",
+        "search_intent": "Informacional",
+        "dynamic_data": {
+            "from_unit": "Tazas de Arroz Crudo",
+            "to_unit": "Tazas de Arroz Cocido",
+            "ingredient": "Arroz Blanco",
+            "conversion_factor": "1 taza cruda = 3 tazas cocidas",
+            "precision_level": "Media - Varía según tipo de arroz"
+        },
+        "hook_intro": "Cocinas 1 taza de arroz crudo y terminas con montañas de arroz. ¿Cuánto rinde? 1 taza de arroz crudo = 3 tazas de arroz cocido. El arroz absorbe agua y triplica su volumen. Para 4 personas, 1 taza cruda es suficiente. Aquí está la tabla completa para diferentes tipos.",
+        "monetization_focus": "Arrocera eléctrica con medidor"
+    },
+    {
+        "slug": "convertir-gramos-mantequilla-a-cucharadas",
+        "primary_keyword": "cuántas cucharadas son 50 gramos de mantequilla",
+        "seo_title": "Gramos de Mantequilla a Cucharadas: Conversión Exacta",
+        "meta_description": "Convierte gramos de mantequilla a cucharadas. Tabla precisa para repostería. ¡Resultados perfectos!",
+        "search_intent": "Informacional",
+        "dynamic_data": {
+            "from_unit": "Gramos",
+            "to_unit": "Cucharadas",
+            "ingredient": "Mantequilla",
+            "conversion_factor": "14g por cucharada",
+            "precision_level": "Alta - Crítico para repostería"
+        },
+        "hook_intro": "La receta dice '50g de mantequilla' pero solo tienes cucharas. 50g = 3.5 cucharadas aproximadamente. La mantequilla es densa: 1 cucharada = 14g. Para repostería precisa, derrite y mide en taza medidora. Aquí está la tabla completa.",
+        "monetization_focus": "Mantequilla de calidad + balanza digital"
+    },
+    {
+        "slug": "convertir-celsius-fahrenheit-horno",
+        "primary_keyword": "cuánto es 180 grados celsius en fahrenheit",
+        "seo_title": "Celsius a Fahrenheit Horno: Conversión Rápida",
+        "meta_description": "Convierte temperatura de horno °C a °F. Tabla completa y fórmula. ¡Hornea a la temperatura correcta!",
+        "search_intent": "Informacional",
+        "dynamic_data": {
+            "from_unit": "Grados Celsius",
+            "to_unit": "Grados Fahrenheit",
+            "ingredient": "Temperatura de Horno",
+            "conversion_factor": "°F = (°C × 9/5) + 32",
+            "precision_level": "Alta - Crítico para horneado"
+        },
+        "hook_intro": "Tu receta europea dice '180°C' pero tu horno está en Fahrenheit. ¿A qué temperatura poner? 180°C = 356°F (redondea a 350°F). La fórmula: (°C × 9/5) + 32. Aquí está la tabla completa de temperaturas comunes de horneado.",
+        "monetization_focus": "Termómetro de horno de precisión"
+    },
+    {
+        "slug": "convertir-mililitros-aceite-a-gramos",
+        "primary_keyword": "cuántos gramos son 100 ml de aceite",
+        "seo_title": "Mililitros de Aceite a Gramos: Conversión Precisa",
+        "meta_description": "Convierte ml de aceite a gramos. Densidad y tabla de conversión. ¡Mide aceites correctamente!",
+        "search_intent": "Informacional",
+        "dynamic_data": {
+            "from_unit": "Mililitros",
+            "to_unit": "Gramos",
+            "ingredient": "Aceite de Oliva",
+            "conversion_factor": "0.92g por ml",
+            "precision_level": "Media - Varía según tipo de aceite"
+        },
+        "hook_intro": "La receta dice '100ml de aceite' pero tu balanza está en gramos. ¿Cuánto pesa? 100ml de aceite = 92g aproximadamente. El aceite es menos denso que el agua (agua: 1ml = 1g). Diferentes aceites varían ligeramente. Aquí está la tabla para aceites comunes.",
+        "monetization_focus": "Aceite de oliva extra virgen premium"
+    },
+    {
+        "slug": "convertir-tazas-cafe-a-gramos",
+        "primary_keyword": "cuántos gramos de café por taza",
+        "seo_title": "Café por Taza: Gramos Exactos para Preparación Perfecta",
+        "meta_description": "Descubre cuántos gramos de café usar por taza. Ratio perfecto y tabla de conversión. ¡Café perfecto siempre!",
+        "search_intent": "Informacional",
+        "dynamic_data": {
+            "from_unit": "Tazas de Café",
+            "to_unit": "Gramos de Café Molido",
+            "ingredient": "Café Molido",
+            "conversion_factor": "10-15g por taza (180ml)",
+            "precision_level": "Media - Según preferencia"
+        },
+        "hook_intro": "¿Cuánto café usar por taza? El ratio estándar es 1:15 (1g de café por 15ml de agua). Para una taza de 180ml, usa 12g de café. Café fuerte: 15g. Café suave: 10g. Aquí está la tabla completa para diferentes preparaciones.",
+        "monetization_focus": "Café de especialidad + molinillo con balanza"
+    },
+    {
+        "slug": "convertir-gramos-levadura-fresca-a-seca",
+        "primary_keyword": "cuánta levadura seca equivale a fresca",
+        "seo_title": "Levadura Fresca a Seca: Conversión Exacta para Pan",
+        "meta_description": "Convierte levadura fresca a seca. Ratio correcto y tabla de conversión. ¡Pan perfecto siempre!",
+        "search_intent": "Informacional",
+        "dynamic_data": {
+            "from_unit": "Gramos de Levadura Fresca",
+            "to_unit": "Gramos de Levadura Seca",
+            "ingredient": "Levadura de Panadería",
+            "conversion_factor": "1g seca = 3g fresca",
+            "precision_level": "Alta - Crítico para fermentación"
+        },
+        "hook_intro": "La receta dice '15g de levadura fresca' pero solo tienes seca. ¿Cuánto usar? 15g fresca = 5g seca. El ratio es 1:3 (levadura seca es 3 veces más concentrada). Usar mal la cantidad arruina el pan. Aquí está la tabla completa.",
+        "monetization_focus": "Levadura seca instantánea de calidad"
+    },
+    {
+        "slug": "convertir-porciones-receta-4-a-8-personas",
+        "primary_keyword": "cómo convertir receta de 4 a 8 personas",
+        "seo_title": "Convertir Porciones de Receta: De 4 a 8 Personas",
+        "meta_description": "Duplica recetas correctamente. Tabla de conversión y ajustes necesarios. ¡Cocina para más gente sin errores!",
+        "search_intent": "Informacional",
+        "dynamic_data": {
+            "from_unit": "4 Porciones",
+            "to_unit": "8 Porciones",
+            "ingredient": "Receta Completa",
+            "conversion_factor": "Multiplicar por 2",
+            "precision_level": "Media - Algunos ingredientes no se duplican"
+        },
+        "hook_intro": "Tienes receta para 4 personas pero vienen 8. ¿Duplicas todo? CASI. Ingredientes principales: duplica. Sal y especias: multiplica por 1.5 (no por 2). Líquidos de cocción: aumenta 1.75x. Tiempo de cocción: aumenta 20-30%. Aquí está la guía completa.",
+        "monetization_focus": "Ollas grandes para cocinar porciones múltiples"
+    },
+    {
+        "slug": "convertir-cucharadas-miel-a-azucar",
+        "primary_keyword": "cuánto azúcar equivale a miel",
+        "seo_title": "Miel a Azúcar: Conversión para Repostería Saludable",
+        "meta_description": "Sustituye azúcar por miel correctamente. Ratio, ajustes de líquidos y tabla. ¡Endulza naturalmente!",
+        "search_intent": "Informacional",
+        "dynamic_data": {
+            "from_unit": "Tazas de Azúcar",
+            "to_unit": "Tazas de Miel",
+            "ingredient": "Endulzante",
+            "conversion_factor": "1 taza azúcar = 3/4 taza miel",
+            "precision_level": "Media - Requiere ajustes adicionales"
+        },
+        "hook_intro": "Quieres sustituir azúcar por miel en tu receta. ¿Es 1:1? NO. La miel es más dulce y líquida. Usa 3/4 de taza de miel por cada taza de azúcar. Reduce líquidos de la receta en 1/4 de taza. Baja temperatura del horno 25°F. Aquí está la guía completa.",
+        "monetization_focus": "Miel orgánica pura de abeja"
+    },
+    {
+        "slug": "convertir-gramos-pasta-cruda-a-cocida",
+        "primary_keyword": "cuánto rinde 100 gramos de pasta cruda",
+        "seo_title": "Pasta Cruda a Cocida: Cuánto Rinde por Persona",
+        "meta_description": "Descubre cuánto rinde la pasta al cocinarse. Porciones perfectas y tabla de conversión. ¡Cocina la cantidad exacta!",
+        "search_intent": "Informacional",
+        "dynamic_data": {
+            "from_unit": "Gramos de Pasta Cruda",
+            "to_unit": "Gramos de Pasta Cocida",
+            "ingredient": "Pasta Seca",
+            "conversion_factor": "100g cruda = 200-220g cocida",
+            "precision_level": "Media - Varía según tipo de pasta"
+        },
+        "hook_intro": "¿Cuánta pasta cocinar por persona? 100g de pasta cruda = 200-220g cocida (duplica su peso). Por persona: 80-100g cruda como plato principal, 50-60g como entrada. La pasta absorbe agua y duplica. Aquí está la tabla completa para diferentes tipos.",
+        "monetization_focus": "Pasta italiana de calidad premium"
+    },
+    {
+        "slug": "convertir-mililitros-vino-a-copas",
+        "primary_keyword": "cuántas copas salen de una botella de vino",
+        "seo_title": "Botella de Vino: Cuántas Copas Salen - Guía Completa",
+        "meta_description": "Descubre cuántas copas salen de una botella de vino. Porciones estándar y tabla. ¡Calcula para tu evento!",
+        "search_intent": "Informacional",
+        "dynamic_data": {
+            "from_unit": "Botella de Vino (750ml)",
+            "to_unit": "Copas de Vino",
+            "ingredient": "Vino",
+            "conversion_factor": "5-6 copas por botella",
+            "precision_level": "Media - Según tamaño de copa"
+        },
+        "hook_intro": "Organizas cena para 10 personas. ¿Cuántas botellas de vino comprar? Una botella (750ml) = 5-6 copas (125-150ml por copa). Para 10 personas: 2 botellas mínimo, 3 si son bebedores. Aquí está la tabla completa para calcular eventos.",
+        "monetization_focus": "Copas de vino de calidad + descorchador"
+    }
+]

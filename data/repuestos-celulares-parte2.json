@@ -1,0 +1,88 @@
+[
+    {
+        "slug": "pantalla-samsung-a32-compatible-original",
+        "primary_keyword": "pantalla Samsung A32 compatible",
+        "seo_title": "Pantalla Samsung A32: Compatible vs Original - Guía 2024",
+        "meta_description": "Comparativa pantallas Samsung A32. AMOLED vs TFT, calidad, precios y cómo elegir. ¡Repara tu A32 sin gastar de más!",
+        "search_intent": "Transaccional",
+        "dynamic_data": {
+            "dispositivo": "Samsung Galaxy A32",
+            "componente": "Pantalla LCD/AMOLED",
+            "precio_original": "$120-150 USD",
+            "precio_compatible": "$40-70 USD",
+            "calidad_recomendada": "AMOLED Incell (mejor opción)",
+            "dificultad_instalacion": "Media - Requiere calor y paciencia"
+        },
+        "hook_intro": "Tu A32 tiene la pantalla rota y Samsung te cobra $150. Encuentras pantallas compatibles desde $40 pero no sabes si son buenas. La clave: el A32 original tiene pantalla AMOLED. Las compatibles baratas son TFT (peor calidad). Busca AMOLED Incell por $60-70: casi igual que original. Aquí está cómo identificarlas.",
+        "monetization_focus": "Pantalla AMOLED Incell A32 + kit herramientas"
+    },
+    {
+        "slug": "bateria-iphone-11-duracion-reemplazo",
+        "primary_keyword": "batería iPhone 11 cuánto dura",
+        "seo_title": "Batería iPhone 11: Duración Real y Cuándo Cambiarla",
+        "meta_description": "¿Cuánto dura la batería del iPhone 11? Ciclos de carga, degradación y cuándo reemplazarla. ¡Optimiza tu batería!",
+        "search_intent": "Informacional",
+        "dynamic_data": {
+            "dispositivo": "iPhone 11",
+            "componente": "Batería Li-Ion",
+            "capacidad_original": "3110 mAh",
+            "ciclos_vida": "500 ciclos (80% capacidad)",
+            "precio_apple": "$69 USD",
+            "precio_compatible": "$25-35 USD",
+            "dificultad_instalacion": "Alta - Adhesivos fuertes"
+        },
+        "hook_intro": "Tu iPhone 11 ya no aguanta el día completo. En ajustes ves 'Salud de batería: 78%'. ¿Es momento de cambiarla? Apple recomienda cambio bajo 80%. Tu batería tiene ~500 ciclos de vida útil. Después degrada rápido. Apple cobra $69, las compatibles cuestan $30. Aquí está cuál elegir y cómo cambiarla sin dañar el teléfono.",
+        "monetization_focus": "Batería iPhone 11 certificada + adhesivos"
+    },
+    {
+        "slug": "camara-frontal-xiaomi-note-11-borrosa",
+        "primary_keyword": "cámara frontal Xiaomi Note 11 borrosa",
+        "seo_title": "Cámara Frontal Xiaomi Note 11 Borrosa: Solución y Repuesto",
+        "meta_description": "¿Selfies borrosas en tu Note 11? Diagnóstico completo: lente sucio, software o hardware. Soluciones paso a paso.",
+        "search_intent": "Transaccional",
+        "dynamic_data": {
+            "dispositivo": "Xiaomi Redmi Note 11",
+            "componente": "Cámara frontal 13MP",
+            "precio_repuesto": "$15-25 USD",
+            "problema_comun": "Lente rayado o desenfoque",
+            "solucion_rapida": "Limpiar con alcohol isopropílico",
+            "dificultad_instalacion": "Fácil - Solo destornilladores"
+        },
+        "hook_intro": "Tus selfies salen borrosas en el Note 11. Limpiaste el lente pero sigue igual. Antes de comprar repuesto, prueba esto: ve a cámara > configuración > restablecer. El 40% de casos es software. Si persiste, el módulo cuesta $20 en AliExpress y se cambia en 10 minutos. Aquí está el diagnóstico completo.",
+        "monetization_focus": "Módulo cámara frontal Note 11 + kit limpieza"
+    },
+    {
+        "slug": "flex-boton-encendido-motorola-g9-plus",
+        "primary_keyword": "botón de encendido Motorola G9 Plus no funciona",
+        "seo_title": "Botón Encendido Motorola G9 Plus: Solución y Repuesto",
+        "meta_description": "¿Botón de encendido del G9 Plus no responde? Diagnóstico, soluciones temporales y cómo reemplazar el flex. ¡Repáralo!",
+        "search_intent": "Transaccional",
+        "dynamic_data": {
+            "dispositivo": "Motorola Moto G9 Plus",
+            "componente": "Flex botón de encendido",
+            "precio_repuesto": "$10-15 USD",
+            "problema_comun": "Botón hundido o sin respuesta",
+            "solucion_temporal": "Usar botón virtual en accesibilidad",
+            "dificultad_instalacion": "Media - Desmontar carcasa"
+        },
+        "hook_intro": "El botón de encendido de tu G9 Plus dejó de funcionar. Tienes que presionar muy fuerte o no responde. Solución temporal: activa 'Botón de encendido virtual' en Accesibilidad. Pero para arreglarlo permanente, necesitas cambiar el flex del botón. Cuesta $12 y aquí está cómo hacerlo sin romper nada.",
+        "monetization_focus": "Flex botón encendido G9 Plus + espátulas"
+    },
+    {
+        "slug": "microfono-iphone-xr-no-escuchan",
+        "primary_keyword": "micrófono iPhone XR no funciona",
+        "seo_title": "Micrófono iPhone XR: No Me Escuchan - Solución Completa",
+        "meta_description": "¿No te escuchan en llamadas del iPhone XR? Diagnóstico de micrófono inferior, superior y trasero. Soluciones y repuestos.",
+        "search_intent": "Transaccional",
+        "dynamic_data": {
+            "dispositivo": "iPhone XR",
+            "componente": "Micrófono (3 micrófonos)",
+            "precio_repuesto": "$15-25 USD por micrófono",
+            "problema_comun": "Micrófono inferior obstruido",
+            "solucion_rapida": "Limpiar con cepillo suave",
+            "dificultad_instalacion": "Alta - Requiere soldadura"
+        },
+        "hook_intro": "En llamadas no te escuchan bien en tu iPhone XR. Gritas y sigue igual. El XR tiene 3 micrófonos: inferior (llamadas), superior (FaceTime) y trasero (videos). Primero identifica cuál falla: graba audio, video y llama. Si es el inferior, límpialo con cepillo. Si está dañado, el repuesto cuesta $20 pero requiere micro-soldadura. Aquí está el diagnóstico completo.",
+        "monetization_focus": "Kit de micrófonos iPhone XR + herramientas"
+    }
+]

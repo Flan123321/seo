@@ -1,0 +1,82 @@
+[
+    {
+        "slug": "error-h1-lavadora-samsung-calentamiento",
+        "primary_keyword": "error h1 lavadora samsung",
+        "seo_title": "Error H1 Lavadora Samsung: Problema de Calentamiento",
+        "meta_description": "¿Error H1 en Samsung? Agua no calienta. Solución para resistencia, termostato y sensor. ¡Repara el calentamiento!",
+        "search_intent": "Transaccional",
+        "dynamic_data": {
+            "marca": "Samsung",
+            "codigo_error": "H1 / HE1",
+            "problema": "Error de calentamiento de agua",
+            "solucion_rapida": "Revisar resistencia y termostato",
+            "nivel_dificultad": "Difícil - Requiere multímetro"
+        },
+        "hook_intro": "Tu Samsung muestra H1 y el agua sale fría aunque seleccionaste lavado caliente. H1 indica que la resistencia no calienta o el termostato falló. Antes de comprar repuestos, mide con multímetro: la resistencia debe marcar 20-30 ohmios. Si marca infinito, está quemada. Aquí está el diagnóstico completo.",
+        "monetization_focus": "Resistencia de calentamiento Samsung + termostato"
+    },
+    {
+        "slug": "error-cl-lavadora-lg-bloqueo-ninos",
+        "primary_keyword": "error cl lavadora lg",
+        "seo_title": "Error CL Lavadora LG: Cómo Desactivar Bloqueo de Niños",
+        "meta_description": "¿CL en tu LG? Es bloqueo de niños activado. Solución rápida para desbloquear controles. ¡Vuelve a usar tu lavadora!",
+        "search_intent": "Informacional",
+        "dynamic_data": {
+            "marca": "LG",
+            "codigo_error": "CL",
+            "problema": "Bloqueo de niños activado (Child Lock)",
+            "solucion_rapida": "Mantener presionado botón CL 3-5 segundos",
+            "nivel_dificultad": "Muy fácil - Solo desactivar"
+        },
+        "hook_intro": "Tu LG muestra CL y no responde a ningún botón. No es un error, es el bloqueo de niños activado. Alguien (probablemente un niño) presionó el botón CL. Para desactivarlo, mantén presionado el botón con ícono de candado o 'CL' por 3-5 segundos hasta que desaparezca. Aquí está cómo prevenirlo.",
+        "monetization_focus": "Manual de usuario LG digital"
+    },
+    {
+        "slug": "error-e24-lavavajillas-bosch-desague",
+        "primary_keyword": "error e24 lavavajillas bosch",
+        "seo_title": "Error E24 Lavavajillas Bosch: Solución para Desagüe",
+        "meta_description": "¿Error E24 en Bosch? Agua no drena. Solución para filtros, manguera y bomba. ¡Repara el drenaje!",
+        "search_intent": "Transaccional",
+        "dynamic_data": {
+            "marca": "Bosch",
+            "codigo_error": "E24",
+            "problema": "Drenaje obstruido o bomba defectuosa",
+            "solucion_rapida": "Limpiar filtro y revisar manguera de desagüe",
+            "nivel_dificultad": "Fácil - Limpieza básica"
+        },
+        "hook_intro": "Tu Bosch muestra E24 y el agua no sale. Los platos quedan con agua sucia. E24 es el código de drenaje más común en Bosch. El 90% de casos es el filtro tapado con restos de comida. Límpialo completamente y revisa que la manguera no esté doblada. Aquí está el procedimiento paso a paso.",
+        "monetization_focus": "Filtro de lavavajillas Bosch + limpiador"
+    },
+    {
+        "slug": "error-f11-lavadora-whirlpool-comunicacion",
+        "primary_keyword": "error f11 lavadora whirlpool",
+        "seo_title": "Error F11 Lavadora Whirlpool: Solución de Comunicación",
+        "meta_description": "¿Error F11 en Whirlpool? Falla de comunicación entre tarjetas. Diagnóstico, reseteo y cuándo reemplazar. ¡Guía completa!",
+        "search_intent": "Transaccional",
+        "dynamic_data": {
+            "marca": "Whirlpool",
+            "codigo_error": "F11",
+            "problema": "Error de comunicación entre tarjetas",
+            "solucion_rapida": "Resetear desconectando 10 minutos",
+            "nivel_dificultad": "Media - Puede requerir técnico"
+        },
+        "hook_intro": "Tu Whirlpool muestra F11 y no inicia ningún ciclo. F11 indica que la tarjeta de control no se comunica con la tarjeta del motor. Antes de gastar en repuestos, desconecta la lavadora 10 minutos para resetear. Si persiste, revisa los conectores: a veces solo están flojos. Aquí está el diagnóstico completo.",
+        "monetization_focus": "Tarjeta de control Whirlpool compatible"
+    },
+    {
+        "slug": "error-4e-lavadora-samsung-entrada-agua",
+        "primary_keyword": "error 4e lavadora samsung",
+        "seo_title": "Error 4E Lavadora Samsung: Solución Entrada de Agua",
+        "meta_description": "¿Error 4E en Samsung? Problema de llenado de agua. Solución para llaves, filtros y válvula. ¡Repárala rápido!",
+        "search_intent": "Transaccional",
+        "dynamic_data": {
+            "marca": "Samsung",
+            "codigo_error": "4E / 4C",
+            "problema": "Entrada de agua lenta o bloqueada",
+            "solucion_rapida": "Revisar llaves abiertas y filtro de entrada",
+            "nivel_dificultad": "Fácil - Verificar conexiones"
+        },
+        "hook_intro": "Tu Samsung muestra 4E y no llena de agua. El ciclo no inicia. 4E significa que el agua no está entrando correctamente. Primero verifica lo obvio: ¿las llaves están abiertas? Luego limpia el filtro de la manguera de entrada: se tapa con sedimentos. Si eso no funciona, aquí está cómo diagnosticar si es la válvula.",
+        "monetization_focus": "Válvula de entrada de agua Samsung"
+    }
+]

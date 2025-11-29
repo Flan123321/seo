@@ -1,0 +1,482 @@
+[
+  {
+    "slug": "convertir-tazas-harina-a-gramos",
+    "primary_keyword": "cuántos gramos tiene una taza de harina",
+    "seo_title": "¿Cuántos Gramos Tiene una Taza de Harina? Calculadora Exacta",
+    "meta_description": "Descubre la conversión exacta de tazas de harina a gramos. Calculadora precisa para repostería profesional. ¡Resultados perfectos garantizados!",
+    "search_intent": "Informacional",
+    "dynamic_data": {
+      "from_unit": "Tazas",
+      "to_unit": "Gramos",
+      "ingredient": "Harina de Trigo",
+      "conversion_factor": 120,
+      "precision_level": "Alta - Crítico para repostería"
+    },
+    "hook_intro": "¿Tu pastel salió plano otra vez? El problema no eres tú, es medir la harina con tazas sin saber el peso exacto. Una taza compactada puede tener hasta 150g mientras que una suelta apenas 110g. La diferencia arruina cualquier receta de repostería profesional.",
+    "monetization_focus": "Balanza digital de cocina de precisión"
+  },
+  {
+    "slug": "onzas-chocolate-a-gramos",
+    "primary_keyword": "cuántos gramos son 4 onzas de chocolate",
+    "seo_title": "4 Onzas de Chocolate a Gramos - Conversión para Repostería",
+    "meta_description": "Convierte onzas de chocolate a gramos al instante. Guía definitiva para derretir chocolate sin errores. ¡Brownies perfectos cada vez!",
+    "search_intent": "Informacional",
+    "dynamic_data": {
+      "from_unit": "Onzas",
+      "to_unit": "Gramos",
+      "ingredient": "Chocolate para Repostería",
+      "conversion_factor": 28.35,
+      "precision_level": "Media - Importante para textura"
+    },
+    "hook_intro": "Las recetas americanas siempre hablan de 'onzas de chocolate' pero tu balanza marca gramos. Si te equivocas, tu ganache queda líquido o tus brownies secos como piedra. Aquí está la conversión exacta que los chefs profesionales usan en sus cocinas.",
+    "monetization_focus": "Chocolate de cobertura premium para repostería"
+  },
+  {
+    "slug": "sticks-mantequilla-a-gramos",
+    "primary_keyword": "cuánto pesa un stick de mantequilla en gramos",
+    "seo_title": "Stick de Mantequilla a Gramos - Guía Completa 2024",
+    "meta_description": "¿Cuántos gramos tiene un stick de mantequilla? Conversión exacta para recetas americanas. Tabla completa con 1/2 stick, 1/4 stick y más.",
+    "search_intent": "Informacional",
+    "dynamic_data": {
+      "from_unit": "Sticks",
+      "to_unit": "Gramos",
+      "ingredient": "Mantequilla",
+      "conversion_factor": 113.4,
+      "precision_level": "Alta - Esencial para masas"
+    },
+    "hook_intro": "Encontraste la receta perfecta de galletas americanas pero dice '2 sticks de mantequilla'. ¿Qué rayos es un stick? En Latinoamérica no existen. Un stick equivale a 113.4 gramos, pero hay más: medio stick, un cuarto de stick... aquí está todo desglosado.",
+    "monetization_focus": "Mantequilla europea premium para repostería"
+  },
+  {
+    "slug": "cucharadas-aceite-a-mililitros",
+    "primary_keyword": "cuántos ml son 3 cucharadas de aceite",
+    "seo_title": "3 Cucharadas de Aceite a ML - Conversión Instantánea",
+    "meta_description": "Convierte cucharadas de aceite a mililitros sin errores. Tabla completa para cocina y repostería. ¡Mide como un chef profesional!",
+    "search_intent": "Informacional",
+    "dynamic_data": {
+      "from_unit": "Cucharadas",
+      "to_unit": "Mililitros",
+      "ingredient": "Aceite Vegetal",
+      "conversion_factor": 15,
+      "precision_level": "Media - Variable según densidad"
+    },
+    "hook_intro": "Tu receta pide cucharadas pero solo tienes una taza medidora con mililitros. Las cucharadas nunca son exactas: unas están más llenas, otras rasas. Para frituras y aderezos esto importa poco, pero para mayonesas caseras la precisión es crítica o se corta.",
+    "monetization_focus": "Set de cucharas medidoras profesionales"
+  },
+  {
+    "slug": "libras-azucar-a-kilos",
+    "primary_keyword": "cuántos kilos son 5 libras de azúcar",
+    "seo_title": "5 Libras de Azúcar a Kilos - Calculadora Rápida",
+    "meta_description": "Convierte libras de azúcar a kilos en segundos. Guía para compras en USA y recetas americanas. ¡Nunca más compres de más o de menos!",
+    "search_intent": "Informacional",
+    "dynamic_data": {
+      "from_unit": "Libras",
+      "to_unit": "Kilogramos",
+      "ingredient": "Azúcar Blanca",
+      "conversion_factor": 0.453592,
+      "precision_level": "Baja - Tolerante a variaciones"
+    },
+    "hook_intro": "Compraste azúcar en Estados Unidos y el paquete dice '5 lb'. ¿Cuánto es eso en kilos? Si estás haciendo mermeladas o conservas en cantidad, necesitas saber exactamente cuánto tienes. Una libra son 453 gramos, pero aquí está la tabla completa para no hacer cuentas.",
+    "monetization_focus": "Azúcar orgánica a granel"
+  },
+  {
+    "slug": "tazas-arroz-crudo-a-cocido",
+    "primary_keyword": "cuánto rinde una taza de arroz crudo",
+    "seo_title": "¿Cuánto Rinde 1 Taza de Arroz Crudo? Guía Definitiva",
+    "meta_description": "Descubre cuántas porciones salen de una taza de arroz crudo. Tabla de rendimiento para arroz blanco, integral y basmati. ¡Calcula perfecto!",
+    "search_intent": "Informacional",
+    "dynamic_data": {
+      "from_unit": "Tazas (crudo)",
+      "to_unit": "Tazas (cocido)",
+      "ingredient": "Arroz Blanco",
+      "conversion_factor": 3,
+      "precision_level": "Media - Depende del tipo de arroz"
+    },
+    "hook_intro": "Siempre cocinas arroz de más y terminas tirándolo, o te quedas corto y todos quedan con hambre. El secreto está en saber que una taza de arroz crudo se triplica al cocinarse. Pero ojo: el arroz integral y el basmati tienen rendimientos diferentes.",
+    "monetization_focus": "Arrocera eléctrica automática"
+  },
+  {
+    "slug": "gramos-levadura-fresca-a-seca",
+    "primary_keyword": "equivalencia levadura fresca a seca",
+    "seo_title": "Levadura Fresca a Seca: Tabla de Equivalencias Exacta",
+    "meta_description": "Convierte levadura fresca a seca sin arruinar tu masa. Guía profesional con proporciones exactas para pan, pizza y bollería. ¡Fermenta perfecto!",
+    "search_intent": "Informacional",
+    "dynamic_data": {
+      "from_unit": "Gramos (fresca)",
+      "to_unit": "Gramos (seca)",
+      "ingredient": "Levadura de Panadería",
+      "conversion_factor": 0.33,
+      "precision_level": "Alta - Crítico para fermentación"
+    },
+    "hook_intro": "Tu receta de pan pide levadura fresca pero solo encuentras seca en el super. Si usas la misma cantidad, tu masa no levanta o explota. La proporción correcta es 1:3, pero hay un truco que los panaderos profesionales usan para activarla correctamente.",
+    "monetization_focus": "Levadura instantánea premium para panadería"
+  },
+  {
+    "slug": "onzas-liquidas-a-mililitros",
+    "primary_keyword": "cuántos ml son 8 oz de agua",
+    "seo_title": "8 Onzas Líquidas a ML - Conversión para Recetas USA",
+    "meta_description": "Convierte onzas líquidas (fl oz) a mililitros al instante. Tabla completa para agua, leche y líquidos. ¡Mide exacto en recetas americanas!",
+    "search_intent": "Informacional",
+    "dynamic_data": {
+      "from_unit": "Onzas líquidas (fl oz)",
+      "to_unit": "Mililitros",
+      "ingredient": "Líquidos en general",
+      "conversion_factor": 29.5735,
+      "precision_level": "Alta - Importante para bebidas"
+    },
+    "hook_intro": "Las recetas de cocteles y smoothies americanas siempre usan 'fluid ounces' pero tu jarra tiene mililitros. Una onza líquida NO es lo mismo que una onza de peso. Son 29.57ml exactos, y en bebidas esta precisión marca la diferencia entre un trago balanceado y un desastre.",
+    "monetization_focus": "Jarra medidora con doble escala (oz y ml)"
+  },
+  {
+    "slug": "cucharaditas-sal-a-gramos",
+    "primary_keyword": "cuántos gramos son 2 cucharaditas de sal",
+    "seo_title": "Cucharaditas de Sal a Gramos - Conversión Precisa",
+    "meta_description": "Convierte cucharaditas de sal a gramos para cocina saludable. Controla tu consumo de sodio con precisión. ¡Cocina sano sin sacrificar sabor!",
+    "search_intent": "Informacional",
+    "dynamic_data": {
+      "from_unit": "Cucharaditas",
+      "to_unit": "Gramos",
+      "ingredient": "Sal de Mesa",
+      "conversion_factor": 6,
+      "precision_level": "Alta - Crítico para salud"
+    },
+    "hook_intro": "El médico te dijo que reduzcas el sodio pero las recetas hablan de cucharaditas. ¿Cuánto es eso realmente? Una cucharadita de sal son 6 gramos, que contienen 2,300mg de sodio: el límite diario completo. Aquí está cómo medir exacto para cuidar tu salud.",
+    "monetization_focus": "Sal rosada del Himalaya baja en sodio"
+  },
+  {
+    "slug": "tazas-leche-a-mililitros",
+    "primary_keyword": "cuántos ml tiene una taza de leche",
+    "seo_title": "¿Cuántos ML Tiene una Taza de Leche? Guía Completa",
+    "meta_description": "Convierte tazas de leche a mililitros sin errores. Diferencias entre taza americana, métrica y de té. ¡Mide perfecto en cualquier receta!",
+    "search_intent": "Informacional",
+    "dynamic_data": {
+      "from_unit": "Tazas",
+      "to_unit": "Mililitros",
+      "ingredient": "Leche",
+      "conversion_factor": 240,
+      "precision_level": "Media - Variable según estándar"
+    },
+    "hook_intro": "Tu receta dice 'una taza de leche' pero no especifica qué tipo de taza. ¿Es una taza americana (240ml), métrica (250ml) o de té (200ml)? En flanes y natillas esta diferencia cambia completamente la textura. Aquí está la conversión correcta según el origen de tu receta.",
+    "monetization_focus": "Leche en polvo premium para repostería"
+  },
+  {
+    "slug": "gramos-mantequilla-a-aceite",
+    "primary_keyword": "equivalencia mantequilla a aceite en gramos",
+    "seo_title": "Sustituir Mantequilla por Aceite - Tabla de Equivalencias",
+    "meta_description": "Convierte mantequilla a aceite en tus recetas. Guía para hacer bizcochos más esponjosos y saludables. ¡Proporciones exactas de chef!",
+    "search_intent": "Informacional",
+    "dynamic_data": {
+      "from_unit": "Gramos (mantequilla)",
+      "to_unit": "Gramos (aceite)",
+      "ingredient": "Sustitución en repostería",
+      "conversion_factor": 0.75,
+      "precision_level": "Alta - Afecta textura final"
+    },
+    "hook_intro": "Quieres hacer un bizcocho más ligero sustituyendo mantequilla por aceite, pero no sabes cuánto usar. Si pones la misma cantidad, queda aceitoso. La proporción correcta es 75% del peso de mantequilla. Pero hay un secreto: no funciona igual en todas las recetas.",
+    "monetization_focus": "Aceite de coco virgen para repostería saludable"
+  },
+  {
+    "slug": "libras-carne-a-porciones",
+    "primary_keyword": "cuántas porciones salen de 2 libras de carne",
+    "seo_title": "2 Libras de Carne: ¿Cuántas Personas Comen? Guía Completa",
+    "meta_description": "Calcula porciones de carne para tu asado o parrilla. Tabla completa según tipo de corte y preparación. ¡Compra justo lo necesario!",
+    "search_intent": "Informacional",
+    "dynamic_data": {
+      "from_unit": "Libras",
+      "to_unit": "Porciones",
+      "ingredient": "Carne de Res",
+      "conversion_factor": 4,
+      "precision_level": "Media - Depende del apetito"
+    },
+    "hook_intro": "Vas a hacer un asado y no sabes cuánta carne comprar. Si compras de menos, quedas mal. Si compras de más, pierdes dinero. La regla de oro: 1 libra (450g) para 2 personas en carne con hueso, 3-4 personas en carne magra. Pero hay excepciones importantes.",
+    "monetization_focus": "Termómetro digital para carne"
+  },
+  {
+    "slug": "tazas-azucar-morena-a-blanca",
+    "primary_keyword": "equivalencia azúcar morena a blanca",
+    "seo_title": "Sustituir Azúcar Morena por Blanca - Guía Definitiva",
+    "meta_description": "Convierte azúcar morena a blanca en tus recetas. Diferencias de sabor, textura y humedad. ¡Aprende cuándo SÍ y cuándo NO sustituir!",
+    "search_intent": "Informacional",
+    "dynamic_data": {
+      "from_unit": "Tazas (morena)",
+      "to_unit": "Tazas (blanca)",
+      "ingredient": "Azúcar",
+      "conversion_factor": 1,
+      "precision_level": "Media - Cambia sabor y textura"
+    },
+    "hook_intro": "Tu receta de cookies pide azúcar morena pero solo tienes blanca. ¿Puedes sustituir? Sí, pero tus galletas quedarán más crujientes y menos masticables. El azúcar morena tiene melaza que aporta humedad. Aquí está cómo compensar esa diferencia si decides hacer el cambio.",
+    "monetization_focus": "Azúcar mascabado orgánica"
+  },
+  {
+    "slug": "gramos-queso-rallado-a-tazas",
+    "primary_keyword": "cuántas tazas son 100 gramos de queso rallado",
+    "seo_title": "100g de Queso Rallado a Tazas - Conversión Exacta",
+    "meta_description": "Convierte gramos de queso rallado a tazas. Diferencias entre parmesano, mozzarella y cheddar. ¡Mide perfecto para pizzas y gratinados!",
+    "search_intent": "Informacional",
+    "dynamic_data": {
+      "from_unit": "Gramos",
+      "to_unit": "Tazas",
+      "ingredient": "Queso Rallado",
+      "conversion_factor": 0.01,
+      "precision_level": "Baja - Muy variable según tipo"
+    },
+    "hook_intro": "Las recetas americanas piden tazas de queso rallado pero tú compraste un paquete de 100 gramos. ¿Cuánto es eso en tazas? Depende del queso: el parmesano rallado fino rinde más que la mozzarella en hebras gruesas. Aquí está la tabla completa por tipo de queso.",
+    "monetization_focus": "Rallador de queso profesional de acero"
+  },
+  {
+    "slug": "cucharadas-miel-a-azucar",
+    "primary_keyword": "equivalencia miel a azúcar en cucharadas",
+    "seo_title": "Sustituir Azúcar por Miel - Tabla de Equivalencias",
+    "meta_description": "Convierte azúcar a miel en tus recetas. Guía para endulzar de forma natural sin arruinar la textura. ¡Proporciones exactas + ajustes!",
+    "search_intent": "Informacional",
+    "dynamic_data": {
+      "from_unit": "Cucharadas (azúcar)",
+      "to_unit": "Cucharadas (miel)",
+      "ingredient": "Endulzante",
+      "conversion_factor": 0.75,
+      "precision_level": "Alta - Afecta líquidos de la receta"
+    },
+    "hook_intro": "Quieres endulzar con miel en vez de azúcar pero no es una sustitución 1:1. La miel es más dulce y es líquida, así que debes usar menos cantidad y reducir otros líquidos de la receta. Si no ajustas, tu masa queda aguada. Aquí está la fórmula exacta.",
+    "monetization_focus": "Miel de abeja orgánica pura"
+  },
+  {
+    "slug": "tazas-avena-a-gramos",
+    "primary_keyword": "cuántos gramos tiene una taza de avena",
+    "seo_title": "Taza de Avena a Gramos - Conversión para Fitness",
+    "meta_description": "Convierte tazas de avena a gramos para contar macros. Diferencias entre avena instantánea, tradicional y en hojuelas. ¡Mide tus carbohidratos exacto!",
+    "search_intent": "Informacional",
+    "dynamic_data": {
+      "from_unit": "Tazas",
+      "to_unit": "Gramos",
+      "ingredient": "Avena en Hojuelas",
+      "conversion_factor": 80,
+      "precision_level": "Media - Variable según tipo"
+    },
+    "hook_intro": "Estás contando macros para tu dieta fitness y la receta de overnight oats dice 'media taza de avena'. ¿Cuántos gramos son? ¿Cuántos carbohidratos estás comiendo realmente? Una taza de avena en hojuelas son 80g, pero la avena molida pesa diferente. Aquí está todo desglosado.",
+    "monetization_focus": "Avena orgánica certificada para deportistas"
+  },
+  {
+    "slug": "gramos-pasta-cruda-a-cocida",
+    "primary_keyword": "cuánto rinde 100 gramos de pasta cruda",
+    "seo_title": "100g de Pasta Cruda: ¿Cuánto Rinde Cocida? Guía Completa",
+    "meta_description": "Descubre cuánto rinde la pasta al cocinarla. Tabla de rendimiento para espagueti, penne, fusilli y más. ¡Calcula porciones perfectas!",
+    "search_intent": "Informacional",
+    "dynamic_data": {
+      "from_unit": "Gramos (cruda)",
+      "to_unit": "Gramos (cocida)",
+      "ingredient": "Pasta Seca",
+      "conversion_factor": 2.5,
+      "precision_level": "Media - Depende del tipo de pasta"
+    },
+    "hook_intro": "Siempre cocinas pasta de más porque no sabes cuánto rinde. Los paquetes dicen '80g por persona' pero eso es crudo. Al cocinarse, la pasta absorbe agua y aumenta 2.5 veces su peso. Un espagueti se comporta diferente a un penne. Aquí está la tabla completa.",
+    "monetization_focus": "Pasta artesanal italiana importada"
+  },
+  {
+    "slug": "cucharadas-cafe-a-gramos",
+    "primary_keyword": "cuántos gramos son 2 cucharadas de café",
+    "seo_title": "Cucharadas de Café a Gramos - Proporción Perfecta",
+    "meta_description": "Convierte cucharadas de café a gramos para el espresso perfecto. Guía barista profesional con ratios exactos. ¡Extrae el mejor sabor!",
+    "search_intent": "Informacional",
+    "dynamic_data": {
+      "from_unit": "Cucharadas",
+      "to_unit": "Gramos",
+      "ingredient": "Café Molido",
+      "conversion_factor": 7,
+      "precision_level": "Alta - Crítico para extracción"
+    },
+    "hook_intro": "Tu café sale amargo o aguado porque mides con cucharadas en vez de pesar. Los baristas profesionales usan 7 gramos de café por cada 120ml de agua. Una cucharada sopera rasa son aproximadamente 7g, pero el café molido fino pesa más que el grueso en el mismo volumen.",
+    "monetization_focus": "Balanza de precisión para café con temporizador"
+  },
+  {
+    "slug": "onzas-queso-crema-a-gramos",
+    "primary_keyword": "cuántos gramos son 8 oz de queso crema",
+    "seo_title": "8 Onzas de Queso Crema a Gramos - Conversión para Cheesecake",
+    "meta_description": "Convierte onzas de queso crema a gramos. Guía para recetas de cheesecake, frosting y dips. ¡Textura cremosa perfecta garantizada!",
+    "search_intent": "Informacional",
+    "dynamic_data": {
+      "from_unit": "Onzas",
+      "to_unit": "Gramos",
+      "ingredient": "Queso Crema",
+      "conversion_factor": 28.35,
+      "precision_level": "Alta - Esencial para cheesecakes"
+    },
+    "hook_intro": "Las recetas de cheesecake americanas siempre piden queso crema en onzas. Un paquete estándar de Philadelphia son 8oz, que equivalen a 226 gramos. Si usas de más, tu cheesecake queda denso. Si usas de menos, se agrieta al hornear. La precisión aquí es crítica.",
+    "monetization_focus": "Queso crema premium Philadelphia original"
+  },
+  {
+    "slug": "tazas-nueces-picadas-a-gramos",
+    "primary_keyword": "cuántos gramos son 2 tazas de nueces picadas",
+    "seo_title": "Tazas de Nueces Picadas a Gramos - Conversión Exacta",
+    "meta_description": "Convierte tazas de nueces a gramos. Diferencias entre nueces enteras, picadas y molidas. ¡Mide perfecto para brownies y panes!",
+    "search_intent": "Informacional",
+    "dynamic_data": {
+      "from_unit": "Tazas",
+      "to_unit": "Gramos",
+      "ingredient": "Nueces Picadas",
+      "conversion_factor": 120,
+      "precision_level": "Media - Variable según picado"
+    },
+    "hook_intro": "Tu receta de brownies pide tazas de nueces picadas pero compraste un paquete de 200 gramos. ¿Te alcanza? Las nueces picadas finas se compactan más en la taza que las picadas gruesas. Una taza de nueces picadas medianas son aproximadamente 120g, pero hay variaciones importantes.",
+    "monetization_focus": "Nueces de California premium sin cáscara"
+  },
+  {
+    "slug": "gramos-polvo-hornear-a-cucharaditas",
+    "primary_keyword": "cuántas cucharaditas son 10 gramos de polvo de hornear",
+    "seo_title": "Gramos de Polvo de Hornear a Cucharaditas - Guía Precisa",
+    "meta_description": "Convierte gramos de polvo de hornear a cucharaditas sin errores. Diferencia entre polvo y bicarbonato. ¡Bizcochos esponjosos perfectos!",
+    "search_intent": "Informacional",
+    "dynamic_data": {
+      "from_unit": "Gramos",
+      "to_unit": "Cucharaditas",
+      "ingredient": "Polvo de Hornear",
+      "conversion_factor": 0.2,
+      "precision_level": "Alta - Crítico para leudado"
+    },
+    "hook_intro": "Tu receta europea pide gramos de polvo de hornear pero solo tienes cucharas medidoras. Si te pasas, tu bizcocho sabe amargo y metálico. Si te quedas corto, no sube. Una cucharadita rasa son 5 gramos exactos. Pero cuidado: el polvo de hornear NO es lo mismo que bicarbonato.",
+    "monetization_focus": "Polvo de hornear sin aluminio premium"
+  },
+  {
+    "slug": "litros-caldo-a-cubitos",
+    "primary_keyword": "cuántos cubitos de caldo por litro de agua",
+    "seo_title": "Cubitos de Caldo por Litro - Proporción Perfecta",
+    "meta_description": "Descubre cuántos cubitos de caldo usar por litro de agua. Guía para sopas, arroces y guisos con sabor balanceado. ¡No te pases de sal!",
+    "search_intent": "Informacional",
+    "dynamic_data": {
+      "from_unit": "Litros de agua",
+      "to_unit": "Cubitos de caldo",
+      "ingredient": "Caldo concentrado",
+      "conversion_factor": 2,
+      "precision_level": "Baja - Ajustable al gusto"
+    },
+    "hook_intro": "Echas cubitos de caldo 'al ojo' y tus sopas quedan saladísimas o insípidas. La proporción estándar es 1 cubito por cada 500ml de agua, pero esto varía según la marca. Maggi es más concentrado que Knorr. Aquí está cómo ajustar según tu marca y reducir el sodio.",
+    "monetization_focus": "Caldo orgánico bajo en sodio en pasta"
+  },
+  {
+    "slug": "tazas-coco-rallado-a-gramos",
+    "primary_keyword": "cuántos gramos tiene una taza de coco rallado",
+    "seo_title": "Taza de Coco Rallado a Gramos - Conversión para Postres",
+    "meta_description": "Convierte tazas de coco rallado a gramos. Diferencias entre coco fresco, deshidratado y endulzado. ¡Mide exacto para tus recetas tropicales!",
+    "search_intent": "Informacional",
+    "dynamic_data": {
+      "from_unit": "Tazas",
+      "to_unit": "Gramos",
+      "ingredient": "Coco Rallado Deshidratado",
+      "conversion_factor": 80,
+      "precision_level": "Media - Variable según humedad"
+    },
+    "hook_intro": "Las recetas de besitos de coco y alfajores piden tazas de coco rallado, pero el coco deshidratado pesa diferente al fresco. Una taza de coco deshidratado sin endulzar son 80g, pero el endulzado es más denso. Si usas el tipo equivocado, cambia completamente la textura del postre.",
+    "monetization_focus": "Coco rallado orgánico sin azúcar añadida"
+  },
+  {
+    "slug": "gramos-gelatina-sin-sabor-a-sobres",
+    "primary_keyword": "cuántos sobres de gelatina son 20 gramos",
+    "seo_title": "Gramos de Gelatina a Sobres - Conversión para Postres",
+    "meta_description": "Convierte gramos de gelatina sin sabor a sobres. Guía para cuajar mousses, panna cottas y gelatinas. ¡Textura perfecta cada vez!",
+    "search_intent": "Informacional",
+    "dynamic_data": {
+      "from_unit": "Gramos",
+      "to_unit": "Sobres",
+      "ingredient": "Gelatina Sin Sabor",
+      "conversion_factor": 0.14,
+      "precision_level": "Alta - Crítico para cuajado"
+    },
+    "hook_intro": "Tu receta de panna cotta pide 20 gramos de gelatina pero solo encuentras sobres en el super. ¿Cuántos necesitas? Un sobre estándar de Knox trae 7 gramos, así que necesitarías 3 sobres. Pero si te pasas, queda gomoso. Si te quedas corto, no cuaja. Aquí está la tabla exacta.",
+    "monetization_focus": "Gelatina sin sabor en polvo premium"
+  },
+  {
+    "slug": "cucharadas-mantequilla-mani-a-gramos",
+    "primary_keyword": "cuántos gramos son 2 cucharadas de mantequilla de maní",
+    "seo_title": "Cucharadas de Mantequilla de Maní a Gramos - Guía Fitness",
+    "meta_description": "Convierte cucharadas de mantequilla de maní a gramos para contar calorías. Guía para dietas fitness con macros exactos. ¡Controla tus grasas!",
+    "search_intent": "Informacional",
+    "dynamic_data": {
+      "from_unit": "Cucharadas",
+      "to_unit": "Gramos",
+      "ingredient": "Mantequilla de Maní",
+      "conversion_factor": 16,
+      "precision_level": "Alta - Importante para macros"
+    },
+    "hook_intro": "Estás en dieta y comes mantequilla de maní directo del frasco sin medir. Dos cucharadas parecen poco pero son 32 gramos: 190 calorías y 16g de grasa. Si estás contando macros, esta imprecisión arruina tu déficit calórico. Aquí está cómo medir exacto sin obsesionarte.",
+    "monetization_focus": "Mantequilla de maní natural sin azúcar añadida"
+  },
+  {
+    "slug": "tazas-yogurt-a-gramos",
+    "primary_keyword": "cuántos gramos tiene una taza de yogurt",
+    "seo_title": "Taza de Yogurt a Gramos - Conversión para Recetas",
+    "meta_description": "Convierte tazas de yogurt a gramos. Diferencias entre yogurt griego, natural y descremado. ¡Mide perfecto para marinados y postres!",
+    "search_intent": "Informacional",
+    "dynamic_data": {
+      "from_unit": "Tazas",
+      "to_unit": "Gramos",
+      "ingredient": "Yogurt Natural",
+      "conversion_factor": 245,
+      "precision_level": "Media - Variable según densidad"
+    },
+    "hook_intro": "Las recetas de marinados para pollo y salsas tzatziki piden tazas de yogurt. Una taza de yogurt natural son 245 gramos, pero el yogurt griego es más denso y pesa más. Si usas griego en una receta que pide natural, tu marinado queda muy espeso. Aquí están las conversiones correctas.",
+    "monetization_focus": "Yogurt griego natural sin azúcar"
+  },
+  {
+    "slug": "gramos-proteina-polvo-a-scoops",
+    "primary_keyword": "cuántos gramos tiene un scoop de proteína",
+    "seo_title": "Scoop de Proteína a Gramos - Guía para Fitness",
+    "meta_description": "Descubre cuántos gramos tiene un scoop de proteína en polvo. Tabla por marca y tipo. ¡Calcula tus macros exactos para ganar músculo!",
+    "search_intent": "Informacional",
+    "dynamic_data": {
+      "from_unit": "Scoops",
+      "to_unit": "Gramos",
+      "ingredient": "Proteína en Polvo",
+      "conversion_factor": 30,
+      "precision_level": "Alta - Crítico para macros"
+    },
+    "hook_intro": "Perdiste el scoop de tu proteína y usas cucharas al azar. Cada marca tiene scoops de diferente tamaño: Optimum Nutrition usa 30g, Dymatize 36g, MyProtein 25g. Si no mides exacto, no estás consumiendo la proteína que crees. Aquí está cómo medir sin el scoop original.",
+    "monetization_focus": "Proteína whey isolate premium certificada"
+  },
+  {
+    "slug": "tazas-espinaca-fresca-a-cocida",
+    "primary_keyword": "cuánto rinde una taza de espinaca fresca cocida",
+    "seo_title": "Espinaca Fresca a Cocida - Conversión de Rendimiento",
+    "meta_description": "Descubre cuánto se reduce la espinaca al cocinarla. Guía para calcular porciones en salteados y rellenos. ¡Compra la cantidad exacta!",
+    "search_intent": "Informacional",
+    "dynamic_data": {
+      "from_unit": "Tazas (fresca)",
+      "to_unit": "Tazas (cocida)",
+      "ingredient": "Espinaca",
+      "conversion_factor": 0.1,
+      "precision_level": "Media - Variable según cocción"
+    },
+    "hook_intro": "Compraste una bolsa enorme de espinaca fresca para un salteado y al cocinarla quedó en nada. La espinaca fresca se reduce hasta un 90% al cocinarse porque pierde agua. Diez tazas de espinaca fresca se convierten en apenas una taza cocida. Aquí está cómo calcular para no quedarte corto.",
+    "monetization_focus": "Espinaca orgánica fresca en bolsa"
+  },
+  {
+    "slug": "onzas-pasta-seca-por-persona",
+    "primary_keyword": "cuántas onzas de pasta por persona",
+    "seo_title": "Onzas de Pasta por Persona - Guía de Porciones Perfecta",
+    "meta_description": "Calcula cuántas onzas de pasta seca servir por persona. Tabla para plato principal y guarnición. ¡Nunca más cocines de más o de menos!",
+    "search_intent": "Informacional",
+    "dynamic_data": {
+      "from_unit": "Onzas por persona",
+      "to_unit": "Gramos por persona",
+      "ingredient": "Pasta Seca",
+      "conversion_factor": 28.35,
+      "precision_level": "Media - Ajustable al apetito"
+    },
+    "hook_intro": "Vas a cocinar pasta para invitados y no sabes cuánto preparar. La regla americana es 2 onzas (56g) por persona como guarnición, 4 onzas (113g) como plato principal. Pero esto es para adultos promedio. Si hay adolescentes o deportistas, necesitas más. Aquí está la tabla completa.",
+    "monetization_focus": "Pasta italiana de sémola de trigo duro"
+  },
+  {
+    "slug": "gramos-jengibre-fresco-a-polvo",
+    "primary_keyword": "equivalencia jengibre fresco a jengibre en polvo",
+    "seo_title": "Jengibre Fresco a Polvo - Tabla de Equivalencias",
+    "meta_description": "Convierte jengibre fresco a jengibre en polvo en tus recetas. Diferencias de sabor y potencia. ¡Aprende cuándo SÍ sustituir!",
+    "search_intent": "Informacional",
+    "dynamic_data": {
+      "from_unit": "Cucharadas (fresco rallado)",
+      "to_unit": "Cucharaditas (polvo)",
+      "ingredient": "Jengibre",
+      "conversion_factor": 0.25,
+      "precision_level": "Media - Cambia intensidad"
+    },
+    "hook_intro": "Tu receta asiática pide jengibre fresco pero solo tienes jengibre en polvo. No es una sustitución directa: el jengibre en polvo es mucho más concentrado y tiene un sabor diferente. Una cucharada de jengibre fresco rallado equivale a 1/4 cucharadita de polvo. Pero en algunas recetas no funciona.",
+    "monetization_focus": "Jengibre orgánico fresco premium"
+  }
+]

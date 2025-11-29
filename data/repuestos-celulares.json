@@ -1,0 +1,87 @@
+[
+    {
+        "slug": "pantalla-iphone-12-pro-compatible-original",
+        "primary_keyword": "pantalla compatible iPhone 12 Pro original",
+        "seo_title": "Pantalla iPhone 12 Pro: Original vs Compatible ¿Cuál Comprar?",
+        "meta_description": "Guía completa de pantallas para iPhone 12 Pro. Original vs compatible, calidad OLED, instalación y precios. ¡Decide inteligentemente!",
+        "search_intent": "Transaccional",
+        "dynamic_data": {
+            "dispositivo": "iPhone 12 Pro",
+            "componente": "Pantalla OLED",
+            "precio_original": "$280-320 USD",
+            "precio_compatible": "$80-150 USD",
+            "calidad_recomendada": "OLED Incell (mejor relación calidad-precio)",
+            "dificultad_instalacion": "Alta - Requiere herramientas especiales"
+        },
+        "hook_intro": "Se te cayó el iPhone 12 Pro y la pantalla quedó destrozada. Apple te cobra $320 por el cambio. Encuentras pantallas 'compatibles' en $90 pero no sabes si son confiables. La verdad: hay pantallas OLED Incell de excelente calidad por $120-150 que funcionan casi igual que la original. Aquí está cómo identificar las buenas de las basura.",
+        "monetization_focus": "Pantalla OLED Incell certificada + kit de herramientas"
+    },
+    {
+        "slug": "bateria-samsung-s21-ultra-original-compatible",
+        "primary_keyword": "batería Samsung S21 Ultra compatible",
+        "seo_title": "Batería Samsung S21 Ultra: Guía de Reemplazo 2024",
+        "meta_description": "¿Tu S21 Ultra dura poco? Guía completa de baterías compatibles vs originales. Capacidad, durabilidad y cómo cambiarla tú mismo.",
+        "search_intent": "Transaccional",
+        "dynamic_data": {
+            "dispositivo": "Samsung Galaxy S21 Ultra",
+            "componente": "Batería Li-Ion",
+            "capacidad_original": "5000 mAh",
+            "precio_original": "$60-80 USD",
+            "precio_compatible": "$25-40 USD",
+            "dificultad_instalacion": "Media - Requiere calor y paciencia"
+        },
+        "hook_intro": "Tu S21 Ultra ya no aguanta ni medio día de batería. Samsung te cobra $80 más mano de obra por cambiarla. Ves baterías compatibles en Amazon por $30 pero temes que exploten. La realidad: las baterías compatibles de marcas certificadas (Scud, Nohon) son seguras si tienen protección contra sobrecarga. Aquí está cómo elegir y cambiarla sin morir en el intento.",
+        "monetization_focus": "Batería compatible certificada + adhesivo B7000"
+    },
+    {
+        "slug": "camara-trasera-xiaomi-redmi-note-10-pro",
+        "primary_keyword": "cámara trasera Xiaomi Redmi Note 10 Pro repuesto",
+        "seo_title": "Cámara Trasera Redmi Note 10 Pro: Repuesto y Reparación",
+        "meta_description": "¿Cámara borrosa en tu Redmi Note 10 Pro? Guía de repuestos, diagnóstico y reparación. ¡Vuelve a tomar fotos perfectas!",
+        "search_intent": "Transaccional",
+        "dynamic_data": {
+            "dispositivo": "Xiaomi Redmi Note 10 Pro",
+            "componente": "Módulo cámara trasera 108MP",
+            "precio_original": "$45-60 USD",
+            "precio_compatible": "$25-35 USD",
+            "problema_comun": "Lente rayado o sensor dañado",
+            "dificultad_instalacion": "Fácil - Solo destornilladores"
+        },
+        "hook_intro": "Las fotos de tu Redmi Note 10 Pro salieron borrosas de repente. Limpiaste el lente pero sigue igual. El problema es interno: el sensor de 108MP es delicado y se daña con caídas. El módulo completo cuesta $30-35 en AliExpress y es fácil de cambiar. Aquí está cómo diagnosticar si es el lente o el sensor y cómo reemplazarlo en 15 minutos.",
+        "monetization_focus": "Módulo cámara trasera 108MP + destornilladores precisión"
+    },
+    {
+        "slug": "puerto-carga-samsung-a52-no-carga",
+        "primary_keyword": "puerto de carga Samsung A52 no carga",
+        "seo_title": "Puerto de Carga Samsung A52: Solución y Reemplazo",
+        "meta_description": "¿Tu Samsung A52 no carga? Diagnóstico completo: puerto sucio, cable dañado o puerto roto. Soluciones paso a paso.",
+        "search_intent": "Transaccional",
+        "dynamic_data": {
+            "dispositivo": "Samsung Galaxy A52",
+            "componente": "Puerto USB-C de carga",
+            "precio_repuesto": "$8-15 USD",
+            "problema_comun": "Pelusa acumulada o pines doblados",
+            "solucion_rapida": "Limpiar con palillo de madera",
+            "dificultad_instalacion": "Media - Requiere soldadura o flex completo"
+        },
+        "hook_intro": "Tu A52 solo carga en cierta posición del cable. Tienes que dejarlo en un ángulo específico toda la noche. Antes de comprar repuestos, limpia el puerto: el 70% de los casos es solo pelusa compactada. Usa un palillo de madera (nunca metal) y saca la mugre. Si eso no funciona, aquí está cómo saber si necesitas cambiar el puerto o es el cable.",
+        "monetization_focus": "Flex de puerto de carga A52 + kit de limpieza"
+    },
+    {
+        "slug": "tactil-huawei-p30-lite-no-responde",
+        "primary_keyword": "táctil Huawei P30 Lite no responde",
+        "seo_title": "Táctil Huawei P30 Lite: Solución y Reemplazo de Pantalla",
+        "meta_description": "¿El táctil de tu P30 Lite no responde? Diagnóstico completo, calibración y guía de reemplazo. ¡Recupera tu teléfono!",
+        "search_intent": "Transaccional",
+        "dynamic_data": {
+            "dispositivo": "Huawei P30 Lite",
+            "componente": "Digitalizador táctil + LCD",
+            "precio_pantalla": "$35-50 USD",
+            "problema_comun": "Táctil fantasma o zonas muertas",
+            "solucion_rapida": "Reiniciar y calibrar táctil",
+            "dificultad_instalacion": "Media - Cuidado con cables flex"
+        },
+        "hook_intro": "El táctil de tu P30 Lite hace cosas solo: abre apps, escribe letras random, o ciertas zonas no responden. Antes de gastar en pantalla nueva, prueba esto: reinicia en modo seguro y calibra el táctil. Si el problema persiste, es hardware. La pantalla completa cuesta $40-50 y aquí está cómo cambiarla sin romper los cables flex que son delicadísimos.",
+        "monetization_focus": "Pantalla completa P30 Lite + adhesivo T7000"
+    }
+]

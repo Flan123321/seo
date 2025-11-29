@@ -1,0 +1,87 @@
+[
+    {
+        "slug": "creatina-monohidrato-vs-hcl-cual-mejor",
+        "primary_keyword": "creatina monohidrato vs HCL cuál es mejor",
+        "seo_title": "Creatina Monohidrato vs HCL: ¿Cuál Elegir en 2024?",
+        "meta_description": "Comparativa definitiva: Creatina Monohidrato vs HCL. Absorción, precio, efectividad y efectos secundarios. ¡Decide con ciencia!",
+        "search_intent": "Transaccional",
+        "dynamic_data": {
+            "producto_a": "Creatina Monohidrato",
+            "producto_b": "Creatina HCL",
+            "ganador_precio": "Monohidrato (70% más económica)",
+            "ganador_absorcion": "HCL (mejor solubilidad)",
+            "ganador_efectividad": "Empate (mismos resultados)",
+            "recomendacion": "Monohidrato para presupuesto, HCL para estómago sensible"
+        },
+        "hook_intro": "Estás en la tienda de suplementos mirando dos tipos de creatina: Monohidrato a $20 y HCL a $35. El vendedor dice que la HCL es 'mejor absorbida' pero cuesta casi el doble. ¿Es marketing o ciencia real? Aquí está la verdad basada en estudios: ambas funcionan igual, pero hay casos donde una es mejor que la otra.",
+        "monetization_focus": "Creatina monohidrato micronizada certificada"
+    },
+    {
+        "slug": "proteina-whey-isolate-vs-concentrate",
+        "primary_keyword": "whey isolate vs concentrate diferencias",
+        "seo_title": "Whey Isolate vs Concentrate: ¿Cuál Comprar? Guía 2024",
+        "meta_description": "Diferencias reales entre Whey Isolate y Concentrate. Proteína, lactosa, precio y cuál elegir según tus objetivos. ¡Invierte bien!",
+        "search_intent": "Transaccional",
+        "dynamic_data": {
+            "producto_a": "Whey Isolate",
+            "producto_b": "Whey Concentrate",
+            "ganador_proteina": "Isolate (90% vs 80%)",
+            "ganador_precio": "Concentrate (40% más barato)",
+            "ganador_lactosa": "Isolate (casi sin lactosa)",
+            "recomendacion": "Isolate para definición/intolerancia, Concentrate para volumen"
+        },
+        "hook_intro": "Quieres comprar proteína pero no entiendes la diferencia entre Isolate y Concentrate. El Isolate cuesta $50 y el Concentrate $30 por el mismo peso. ¿Vale la pena pagar más? Depende: si eres intolerante a la lactosa o estás en definición, el Isolate es obligatorio. Si buscas volumen y toleras lácteos, el Concentrate es mejor inversión.",
+        "monetization_focus": "Proteína Whey Isolate certificada sin lactosa"
+    },
+    {
+        "slug": "bcaa-vs-eaa-que-tomar-gym",
+        "primary_keyword": "BCAA vs EAA cuál es mejor para gym",
+        "seo_title": "BCAA vs EAA: ¿Cuál Tomar para Ganar Músculo? Ciencia 2024",
+        "meta_description": "Comparativa científica BCAA vs EAA. Aminoácidos esenciales, síntesis proteica y cuál realmente necesitas. ¡No gastes en lo innecesario!",
+        "search_intent": "Informacional",
+        "dynamic_data": {
+            "producto_a": "BCAA (3 aminoácidos)",
+            "producto_b": "EAA (9 aminoácidos)",
+            "ganador_completo": "EAA (incluye los 9 esenciales)",
+            "ganador_precio": "BCAA (más económico)",
+            "ganador_sintesis": "EAA (síntesis proteica completa)",
+            "recomendacion": "EAA si entrenas en ayunas, ninguno si comes suficiente proteína"
+        },
+        "hook_intro": "El influencer fitness dice que tomes BCAA durante el entrenamiento, pero tu amigo nutricionista dice que son innecesarios si comes bien. ¿Quién tiene razón? La ciencia es clara: los BCAA son 3 de los 9 aminoácidos esenciales. Los EAA tienen los 9. Si ya consumes 1.6g de proteína por kilo de peso, ninguno es necesario. Pero si entrenas en ayunas, los EAA son superiores.",
+        "monetization_focus": "EAA en polvo con ratio óptimo de aminoácidos"
+    },
+    {
+        "slug": "pre-entreno-con-vs-sin-cafeina",
+        "primary_keyword": "pre entreno con cafeína vs sin cafeína",
+        "seo_title": "Pre-Entreno con Cafeína vs Sin Cafeína: ¿Cuál Elegir?",
+        "meta_description": "Comparativa de pre-entrenos con y sin cafeína. Energía, rendimiento, efectos secundarios y cuándo usar cada uno. ¡Entrena inteligente!",
+        "search_intent": "Transaccional",
+        "dynamic_data": {
+            "producto_a": "Pre-entreno con Cafeína",
+            "producto_b": "Pre-entreno Sin Cafeína (Stim-Free)",
+            "ganador_energia": "Con cafeína (obvio)",
+            "ganador_bombeo": "Sin cafeína (más citrulina/arginina)",
+            "ganador_sueño": "Sin cafeína (no afecta descanso)",
+            "recomendacion": "Con cafeína AM, sin cafeína PM o si eres sensible"
+        },
+        "hook_intro": "Entrenas a las 7 PM después del trabajo y tomas pre-entreno con cafeína. El entrenamiento es brutal pero a las 2 AM sigues despierto mirando el techo. La cafeína tiene vida media de 5-6 horas: si entrenas tarde, te arruina el sueño. Los pre-entrenos sin estimulantes (stim-free) dan bombeo muscular sin afectar tu descanso. Aquí está cuándo usar cada uno.",
+        "monetization_focus": "Pre-entreno sin cafeína con óxido nítrico"
+    },
+    {
+        "slug": "glutamina-vs-creatina-recuperacion",
+        "primary_keyword": "glutamina vs creatina para recuperación",
+        "seo_title": "Glutamina vs Creatina: ¿Cuál Tomar para Recuperación?",
+        "meta_description": "Comparativa Glutamina vs Creatina. Recuperación muscular, sistema inmune y rendimiento. ¡Descubre cuál necesitas realmente!",
+        "search_intent": "Informacional",
+        "dynamic_data": {
+            "producto_a": "Glutamina",
+            "producto_b": "Creatina",
+            "ganador_recuperacion": "Glutamina (reparación intestinal)",
+            "ganador_fuerza": "Creatina (ATP muscular)",
+            "ganador_evidencia": "Creatina (más estudios sólidos)",
+            "recomendacion": "Creatina obligatoria, Glutamina solo si entrenas 2+ veces al día"
+        },
+        "hook_intro": "El vendedor de la tienda dice que la Glutamina es esencial para recuperación, pero los estudios científicos son contradictorios. La verdad: tu cuerpo produce Glutamina naturalmente. Solo es útil si entrenas intenso dos veces al día o tienes problemas intestinales. La Creatina, en cambio, tiene cientos de estudios probando su efectividad. Prioriza tu dinero correctamente.",
+        "monetization_focus": "Creatina monohidrato + Glutamina combo"
+    }
+]

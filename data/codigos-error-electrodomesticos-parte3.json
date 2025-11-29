@@ -1,0 +1,162 @@
+[
+    {
+        "slug": "error-f09-lavadora-whirlpool-sobrellenado",
+        "primary_keyword": "error f09 lavadora whirlpool",
+        "seo_title": "Error F09 Lavadora Whirlpool: Solución Sobrellenado",
+        "meta_description": "¿Error F09 en Whirlpool? Problema de sobrellenado de agua. Solución para válvula y sensor de nivel. ¡Repárala!",
+        "search_intent": "Transaccional",
+        "dynamic_data": {
+            "marca": "Whirlpool",
+            "codigo_error": "F09",
+            "problema": "Sobrellenado de agua detectado",
+            "solucion_rapida": "Revisar válvula de entrada y sensor de nivel",
+            "nivel_dificultad": "Media - Puede requerir repuesto"
+        },
+        "hook_intro": "Tu Whirlpool muestra F09 y el agua sigue entrando sin parar. El tambor se llena demasiado. F09 indica que la válvula de entrada no cierra correctamente o el sensor de nivel está defectuoso. Primero desconecta la lavadora para detener el agua. Aquí está cómo diagnosticar cuál componente falló.",
+        "monetization_focus": "Válvula de entrada Whirlpool + sensor de nivel"
+    },
+    {
+        "slug": "error-pe-lavadora-lg-sensor-presion",
+        "primary_keyword": "error pe lavadora lg",
+        "seo_title": "Error PE Lavadora LG: Solución Sensor de Presión",
+        "meta_description": "¿Error PE en LG? Problema con sensor de presión de agua. Diagnóstico y solución paso a paso. ¡Repara el sensor!",
+        "search_intent": "Transaccional",
+        "dynamic_data": {
+            "marca": "LG",
+            "codigo_error": "PE",
+            "problema": "Error de sensor de presión de agua",
+            "solucion_rapida": "Limpiar manguera del sensor y revisar conexiones",
+            "nivel_dificultad": "Media - Requiere acceso interno"
+        },
+        "hook_intro": "Tu LG muestra PE y no detecta correctamente el nivel de agua. PE significa 'Pressure Error': el sensor de presión no funciona. Antes de cambiar el sensor ($30), limpia la manguera de presión: se tapa con sedimentos. El 70% de casos PE se soluciona con limpieza. Aquí está el procedimiento.",
+        "monetization_focus": "Sensor de presión LG + manguera de repuesto"
+    },
+    {
+        "slug": "error-e03-lavavajillas-bosch-calentamiento",
+        "primary_keyword": "error e03 lavavajillas bosch",
+        "seo_title": "Error E03 Lavavajillas Bosch: Problema de Calentamiento",
+        "meta_description": "¿Error E03 en Bosch? Agua no calienta. Solución para resistencia y termostato. ¡Agua caliente de nuevo!",
+        "search_intent": "Transaccional",
+        "dynamic_data": {
+            "marca": "Bosch",
+            "codigo_error": "E03",
+            "problema": "Error de calentamiento de agua",
+            "solucion_rapida": "Revisar resistencia y termostato",
+            "nivel_dificultad": "Difícil - Requiere multímetro"
+        },
+        "hook_intro": "Tu Bosch muestra E03 y los platos salen con grasa. El agua no calienta. E03 indica falla en la resistencia de calentamiento o el termostato. Mide la resistencia con multímetro: debe marcar 15-30 ohmios. Si marca infinito, está quemada. Aquí está el diagnóstico completo.",
+        "monetization_focus": "Resistencia de calentamiento Bosch + termostato"
+    },
+    {
+        "slug": "error-sud-lavadora-samsung-espuma-excesiva",
+        "primary_keyword": "error sud lavadora samsung",
+        "seo_title": "Error SUD Lavadora Samsung: Demasiada Espuma - Solución",
+        "meta_description": "¿Error SUD en Samsung? Exceso de espuma detectado. Solución inmediata y qué detergente usar. ¡Lava sin espuma!",
+        "search_intent": "Informacional",
+        "dynamic_data": {
+            "marca": "Samsung",
+            "codigo_error": "SUD / SD",
+            "problema": "Exceso de espuma (detergente incorrecto)",
+            "solucion_rapida": "Reducir detergente y usar HE",
+            "nivel_dificultad": "Muy fácil - Solo ajustar detergente"
+        },
+        "hook_intro": "Tu Samsung muestra SUD y el tambor está lleno de espuma. SUD significa 'Suds' (espuma en inglés). Usaste demasiado detergente o detergente regular en vez de HE (alta eficiencia). La lavadora detecta la espuma y pausa el ciclo. Aquí está cómo eliminar la espuma y qué detergente usar.",
+        "monetization_focus": "Detergente líquido HE concentrado"
+    },
+    {
+        "slug": "error-e22-lavavajillas-bosch-filtro",
+        "primary_keyword": "error e22 lavavajillas bosch",
+        "seo_title": "Error E22 Lavavajillas Bosch: Filtro Obstruido - Solución",
+        "meta_description": "¿Error E22 en Bosch? Filtro sucio bloqueando drenaje. Limpieza profunda paso a paso. ¡Drena perfecto!",
+        "search_intent": "Transaccional",
+        "dynamic_data": {
+            "marca": "Bosch",
+            "codigo_error": "E22",
+            "problema": "Filtro obstruido impidiendo drenaje",
+            "solucion_rapida": "Limpiar filtro profundamente",
+            "nivel_dificultad": "Fácil - Solo limpieza"
+        },
+        "hook_intro": "Tu Bosch muestra E22 y el agua no drena. E22 es específico: el filtro está tapado. No es la manguera ni la bomba, es el filtro. Sácalo y límpialo bajo agua caliente con cepillo. Revisa que no haya huesos, semillas o etiquetas de envases. Aquí está cómo limpiarlo correctamente.",
+        "monetization_focus": "Cepillo de limpieza para filtros + limpiador"
+    },
+    {
+        "slug": "error-dc-lavadora-samsung-desbalanceo",
+        "primary_keyword": "error dc lavadora samsung",
+        "seo_title": "Error dC Lavadora Samsung: Desbalanceo - Solución Rápida",
+        "meta_description": "¿Error dC en Samsung? Carga desbalanceada. Solución inmediata para distribuir ropa. ¡Centrifuga perfecto!",
+        "search_intent": "Informacional",
+        "dynamic_data": {
+            "marca": "Samsung",
+            "codigo_error": "dC / DC",
+            "problema": "Carga desbalanceada - No centrifuga",
+            "solucion_rapida": "Redistribuir ropa uniformemente",
+            "nivel_dificultad": "Muy fácil - Solo reorganizar"
+        },
+        "hook_intro": "Tu Samsung muestra dC y no centrifuga. La ropa sale mojada. dC significa 'Drum Unbalanced': la carga está desbalanceada. Abre la lavadora y redistribuye la ropa uniformemente. No laves una sola prenda pesada (edredón) sola. Aquí está cómo cargar correctamente para evitar este error.",
+        "monetization_focus": "Bolsas para lavar ropa delicada y pesada"
+    },
+    {
+        "slug": "error-e16-lavavajillas-bosch-entrada-agua",
+        "primary_keyword": "error e16 lavavajillas bosch",
+        "seo_title": "Error E16 Lavavajillas Bosch: Entrada de Agua - Solución",
+        "meta_description": "¿Error E16 en Bosch? Agua no entra. Solución para llaves, filtro y válvula. ¡Llena de nuevo!",
+        "search_intent": "Transaccional",
+        "dynamic_data": {
+            "marca": "Bosch",
+            "codigo_error": "E16",
+            "problema": "Entrada de agua bloqueada o lenta",
+            "solucion_rapida": "Revisar llaves y limpiar filtro de entrada",
+            "nivel_dificultad": "Fácil - Verificar conexiones"
+        },
+        "hook_intro": "Tu Bosch muestra E16 y no llena de agua. E16 indica que el agua no está entrando. Primero verifica que la llave esté abierta (parece obvio pero pasa). Luego limpia el filtro de la manguera de entrada: se tapa con sedimentos. Aquí está el procedimiento completo.",
+        "monetization_focus": "Filtro de entrada Bosch + válvula"
+    },
+    {
+        "slug": "error-fe-lavadora-lg-sobrellenado",
+        "primary_keyword": "error fe lavadora lg",
+        "seo_title": "Error FE Lavadora LG: Sobrellenado de Agua - Solución",
+        "meta_description": "¿Error FE en LG? Agua se llena demasiado. Solución para válvula y sensor. ¡Detén el sobrellenado!",
+        "search_intent": "Transaccional",
+        "dynamic_data": {
+            "marca": "LG",
+            "codigo_error": "FE",
+            "problema": "Sobrellenado de agua (Fill Error)",
+            "solucion_rapida": "Revisar válvula de entrada y sensor de nivel",
+            "nivel_dificultad": "Media - Puede requerir repuesto"
+        },
+        "hook_intro": "Tu LG muestra FE y el agua sigue entrando sin parar. FE significa 'Fill Error': sobrellenado. La válvula de entrada no cierra o el sensor de nivel falló. Desconecta la lavadora inmediatamente para detener el agua. Aquí está cómo diagnosticar y reparar.",
+        "monetization_focus": "Válvula de entrada LG + sensor de nivel"
+    },
+    {
+        "slug": "error-e25-lavavajillas-bosch-bomba-drenaje",
+        "primary_keyword": "error e25 lavavajillas bosch",
+        "seo_title": "Error E25 Lavavajillas Bosch: Bomba de Drenaje - Solución",
+        "meta_description": "¿Error E25 en Bosch? Bomba de drenaje bloqueada. Diagnóstico y limpieza paso a paso. ¡Drena perfecto!",
+        "search_intent": "Transaccional",
+        "dynamic_data": {
+            "marca": "Bosch",
+            "codigo_error": "E25",
+            "problema": "Bomba de drenaje obstruida o defectuosa",
+            "solucion_rapida": "Limpiar bomba de objetos extraños",
+            "nivel_dificultad": "Media - Requiere acceso a bomba"
+        },
+        "hook_intro": "Tu Bosch muestra E25 y el agua no sale. E25 indica que la bomba de drenaje está bloqueada. Antes de cambiar la bomba, límpiala: a menudo hay huesos, palillos o etiquetas trabados. Aquí está cómo acceder a la bomba y limpiarla correctamente.",
+        "monetization_focus": "Bomba de drenaje Bosch + herramientas"
+    },
+    {
+        "slug": "error-nf-lavadora-samsung-no-llena",
+        "primary_keyword": "error nf lavadora samsung",
+        "seo_title": "Error nF Lavadora Samsung: No Llena Agua - Solución",
+        "meta_description": "¿Error nF en Samsung? Agua no entra. Solución para llaves, filtro y válvula. ¡Llena de nuevo!",
+        "search_intent": "Transaccional",
+        "dynamic_data": {
+            "marca": "Samsung",
+            "codigo_error": "nF / 4E",
+            "problema": "No llena agua (No Fill)",
+            "solucion_rapida": "Revisar llaves y filtro de entrada",
+            "nivel_dificultad": "Fácil - Verificar conexiones"
+        },
+        "hook_intro": "Tu Samsung muestra nF y no llena de agua. nF significa 'No Fill': el agua no está entrando. Verifica que las llaves estén abiertas completamente. Luego limpia el filtro de la manguera de entrada: se tapa con sedimentos del agua. Aquí está el procedimiento paso a paso.",
+        "monetization_focus": "Filtro de entrada Samsung + válvula"
+    }
+]
