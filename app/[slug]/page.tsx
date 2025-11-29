@@ -2,9 +2,10 @@ import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { getPageBySlug, getAllSlugs, getNicheBySlug, PAGES_BY_NICHE } from '@/lib/data';
-import { generateAffiliateLink } from '@/lib/affiliate';
+import { generateAffiliateLink, generateProductRecommendations } from '@/lib/affiliate';
 import DynamicDataGrid from '@/components/DynamicDataGrid';
 import CTAButton from '@/components/CTAButton';
+import ProductGrid from '@/components/ProductGrid';
 import RelatedPages from '@/components/RelatedPages';
 import styles from './page.module.css';
 
@@ -61,6 +62,9 @@ export default async function LandingPage({ params }: PageProps) {
 
     // Generate affiliate link for monetization
     const affiliateLink = generateAffiliateLink(page.monetization_focus);
+
+    // Generate product recommendations
+    const recommendations = generateProductRecommendations(page.monetization_focus);
 
     // JSON-LD structured data for SEO
     const jsonLd = {
@@ -134,6 +138,9 @@ export default async function LandingPage({ params }: PageProps) {
                             * Enlaces de afiliado. Ganamos una pequeña comisión sin costo adicional para ti.
                         </p>
                     </div>
+
+                    {/* Product Recommendations */}
+                    <ProductGrid products={recommendations} />
 
                     {/* Related Pages */}
                     {niche && (

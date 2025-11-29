@@ -14,6 +14,8 @@ export const metadata: Metadata = {
     },
 };
 
+import { GoogleAnalytics } from '@next/third-parties/google';
+
 export default function RootLayout({
     children,
 }: {
@@ -32,6 +34,7 @@ export default function RootLayout({
                 }}>
                     <p>© 2024 SEO Maestro. Todos los derechos reservados.</p>
                 </footer>
+                <GoogleAnalytics gaId="G-S880YQZ0QQ" />
             </body>
         </html>
     );
