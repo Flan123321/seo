@@ -2,8 +2,8 @@ import productsData from '@/data/products.json';
 
 // Affiliate link configuration
 export const AFFILIATE_LINKS: Record<string, string> = {
-    'amazon': 'https://www.amazon.com/s?tag=pornicho-20&k=',
-    'default': 'https://www.amazon.com/s?tag=pornicho-20&k='
+    'amazon': 'https://www.amazon.com/s?tag=promocionesex-20&k=',
+    'default': 'https://www.amazon.com/s?tag=promocionesex-20&k='
 };
 
 // Generate affiliate link based on monetization focus
@@ -56,6 +56,6 @@ export function generateProductRecommendations(
         rating: p.rating,
         image: p.image,
         // Construct affiliate link using ID (assuming ID is ASIN or similar)
-        affiliateLink: `https://www.amazon.com/dp/${p.id}?tag=pornicho-20`
+        affiliateLink: `https://www.amazon.com/dp/${p.id}?tag=promocionesex-20`
     }));
 }
