@@ -1,0 +1,229 @@
+{
+    "cocina": [
+        {
+            "id": "balanza-etekcity",
+            "name": "Etekcity Balanza Digital de Cocina",
+            "description": "Precisión de 1g, acero inoxidable, capacidad 5kg. Ideal para repostería.",
+            "price": "$13.99",
+            "rating": 4.8,
+            "image": "https://m.media-amazon.com/images/I/71I8Vp2qJBL._AC_SL1500_.jpg",
+            "keywords": [
+                "balanza",
+                "peso",
+                "gramos",
+                "harina",
+                "azucar",
+                "cocina"
+            ]
+        },
+        {
+            "id": "tazas-medidoras-ox",
+            "name": "OXO Good Grips Tazas Medidoras",
+            "description": "Set de 4 piezas magnéticas, mango antideslizante, lectura fácil.",
+            "price": "$19.95",
+            "rating": 4.9,
+            "image": "https://m.media-amazon.com/images/I/71x+mj+gQBL._AC_SL1500_.jpg",
+            "keywords": [
+                "tazas",
+                "medidoras",
+                "volumen",
+                "liquidos",
+                "cocina"
+            ]
+        },
+        {
+            "id": "termometro-thermopro",
+            "name": "ThermoPro TP03 Termómetro Digital",
+            "description": "Lectura instantánea, sonda de acero inoxidable. Perfecto para carnes y líquidos.",
+            "price": "$14.99",
+            "rating": 4.7,
+            "image": "https://m.media-amazon.com/images/I/61Zl-g8yS1L._AC_SL1200_.jpg",
+            "keywords": [
+                "termometro",
+                "temperatura",
+                "carne",
+                "horno",
+                "cocina"
+            ]
+        }
+    ],
+    "suplementos": [
+        {
+            "id": "creatina-on",
+            "name": "Optimum Nutrition Micronized Creatine",
+            "description": "Creatina monohidrato pura, sin sabor, 60 porciones. La más vendida.",
+            "price": "$29.99",
+            "rating": 4.7,
+            "image": "https://m.media-amazon.com/images/I/61zI9VfWcJL._AC_SL1500_.jpg",
+            "keywords": [
+                "creatina",
+                "fuerza",
+                "musculo",
+                "suplementos"
+            ]
+        },
+        {
+            "id": "whey-gold-standard",
+            "name": "Gold Standard 100% Whey Protein",
+            "description": "24g de proteína por porción, aislada y concentrada. Sabor chocolate.",
+            "price": "$44.99",
+            "rating": 4.8,
+            "image": "https://m.media-amazon.com/images/I/716uI8DkuDL._AC_SL1500_.jpg",
+            "keywords": [
+                "proteina",
+                "whey",
+                "recuperacion",
+                "suplementos"
+            ]
+        },
+        {
+            "id": "multivitaminico-optimen",
+            "name": "Optimum Nutrition Opti-Men",
+            "description": "Multivitamínico diario para hombres activos, con aminoácidos.",
+            "price": "$24.95",
+            "rating": 4.6,
+            "image": "https://m.media-amazon.com/images/I/71K+d5+1VJL._AC_SL1500_.jpg",
+            "keywords": [
+                "vitaminas",
+                "salud",
+                "energia",
+                "suplementos"
+            ]
+        }
+    ],
+    "plantas": [
+        {
+            "id": "macetas-tela",
+            "name": "Gardzen Paquete de 5 Macetas de Tela",
+            "description": "5 galones, tela no tejida aireada con asas. Crecimiento vigoroso.",
+            "price": "$16.99",
+            "rating": 4.8,
+            "image": "https://m.media-amazon.com/images/I/81+2+9+1VJL._AC_SL1500_.jpg",
+            "keywords": [
+                "macetas",
+                "cultivo",
+                "jardin",
+                "plantas"
+            ]
+        },
+        {
+            "id": "tijeras-poda",
+            "name": "Fiskars Tijeras de Poda Bypass",
+            "description": "Cuchilla de acero endurecido, corte limpio para tallos vivos.",
+            "price": "$14.88",
+            "rating": 4.7,
+            "image": "https://m.media-amazon.com/images/I/61+2+9+1VJL._AC_SL1500_.jpg",
+            "keywords": [
+                "tijeras",
+                "poda",
+                "jardin",
+                "herramientas"
+            ]
+        },
+        {
+            "id": "fertilizante-organico",
+            "name": "Espoma Organic Plant Tone",
+            "description": "Fertilizante universal orgánico 5-3-3. Seguro para personas y mascotas.",
+            "price": "$12.50",
+            "rating": 4.6,
+            "image": "https://m.media-amazon.com/images/I/81+2+9+1VJL._AC_SL1500_.jpg",
+            "keywords": [
+                "fertilizante",
+                "abono",
+                "nutrientes",
+                "plantas"
+            ]
+        }
+    ],
+    "tech": [
+        {
+            "id": "ifixit-kit",
+            "name": "iFixit Pro Tech Toolkit",
+            "description": "Kit de herramientas de precisión para electrónica. 64 bits, herramientas de apertura.",
+            "price": "$69.99",
+            "rating": 4.9,
+            "image": "https://m.media-amazon.com/images/I/71+2+9+1VJL._AC_SL1500_.jpg",
+            "keywords": [
+                "herramientas",
+                "reparacion",
+                "celular",
+                "iphone",
+                "tech"
+            ]
+        },
+        {
+            "id": "multimetro-astroai",
+            "name": "AstroAI Multímetro Digital",
+            "description": "Mide voltaje, corriente, resistencia. Pantalla retroiluminada.",
+            "price": "$12.99",
+            "rating": 4.6,
+            "image": "https://m.media-amazon.com/images/I/71+2+9+1VJL._AC_SL1500_.jpg",
+            "keywords": [
+                "multimetro",
+                "electricidad",
+                "diagnostico",
+                "tech"
+            ]
+        }
+    ],
+    "auto": [
+        {
+            "id": "medidor-presion",
+            "name": "AstroAI Medidor de Presión de Neumáticos",
+            "description": "Digital, 150 PSI, boquilla iluminada. Lectura precisa.",
+            "price": "$11.99",
+            "rating": 4.7,
+            "image": "https://m.media-amazon.com/images/I/71+2+9+1VJL._AC_SL1500_.jpg",
+            "keywords": [
+                "neumaticos",
+                "presion",
+                "auto",
+                "herramientas"
+            ]
+        },
+        {
+            "id": "compresor-aire",
+            "name": "VacLife Compresor de Aire Portátil",
+            "description": "Inflador de neumáticos 12V DC, apagado automático, luz LED.",
+            "price": "$29.99",
+            "rating": 4.5,
+            "image": "https://m.media-amazon.com/images/I/71+2+9+1VJL._AC_SL1500_.jpg",
+            "keywords": [
+                "inflador",
+                "aire",
+                "emergencia",
+                "auto"
+            ]
+        }
+    ],
+    "libros": [
+        {
+            "id": "interpretacion-suenos",
+            "name": "La Interpretación de los Sueños (Freud)",
+            "description": "Edición completa del clásico de Sigmund Freud. Tapa blanda.",
+            "price": "$15.95",
+            "rating": 4.6,
+            "image": "https://m.media-amazon.com/images/I/71+2+9+1VJL._AC_SL1500_.jpg",
+            "keywords": [
+                "sueños",
+                "psicologia",
+                "libro",
+                "significado"
+            ]
+        },
+        {
+            "id": "diccionario-suenos",
+            "name": "Diccionario de Sueños: 10,000 Significados",
+            "description": "Guía completa de A-Z para interpretar símbolos oníricos.",
+            "price": "$12.50",
+            "rating": 4.4,
+            "image": "https://m.media-amazon.com/images/I/71+2+9+1VJL._AC_SL1500_.jpg",
+            "keywords": [
+                "diccionario",
+                "simbolos",
+                "sueños",
+                "guia"
+            ]
+        }
+    ]
+}

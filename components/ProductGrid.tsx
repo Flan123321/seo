@@ -12,7 +12,6 @@ export default function ProductGrid({ products }: ProductGridProps) {
 
     return (
         <div className={styles.container}>
-            <h3 className={styles.title}>Productos Recomendados</h3>
             <div className={styles.grid}>
                 {products.map((product, index) => (
                     <a
@@ -22,6 +21,15 @@ export default function ProductGrid({ products }: ProductGridProps) {
                         rel="noopener noreferrer sponsored"
                         className={styles.card}
                     >
+                        {product.image && (
+                            <div className="w-full h-48 relative mb-4 overflow-hidden rounded-t-lg bg-white p-4 flex items-center justify-center">
+                                <img
+                                    src={product.image}
+                                    alt={product.name}
+                                    className="object-contain max-h-full max-w-full hover:scale-110 transition-transform duration-300"
+                                />
+                            </div>
+                        )}
                         <div className={styles.cardContent}>
                             <h4 className={styles.productName}>{product.name}</h4>
                             <p className={styles.description}>{product.description}</p>
@@ -33,7 +41,7 @@ export default function ProductGrid({ products }: ProductGridProps) {
                                 </div>
                                 <div className={styles.price}>{product.price}</div>
                             </div>
-                            <button className={styles.button}>Ver Oferta</button>
+                            <button className={styles.button}>Ver Oferta en Amazon</button>
                         </div>
                     </a>
                 ))}
