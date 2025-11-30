@@ -3,17 +3,18 @@ import Header from '@/components/Header';
 import './globals.css';
 
 export const metadata: Metadata = {
-    title: 'SEO Maestro - Guías y Soluciones Prácticas',
-    description: 'Encuentra respuestas precisas a tus preguntas: conversiones de cocina, significado de sueños, solución de errores y más.',
-    keywords: ['seo', 'guías', 'tutoriales', 'conversiones', 'sueños', 'reparaciones'],
-    authors: [{ name: 'SEO Maestro' }],
+    title: 'Prisma - Authority Platform',
+    description: 'Expertise from every angle. Curated guides and solutions for every niche.',
+    keywords: ['guides', 'solutions', 'expert advice', 'prisma'],
+    authors: [{ name: 'Prisma Team' }],
     openGraph: {
-        title: 'SEO Maestro - Guías y Soluciones Prácticas',
-        description: 'Encuentra respuestas precisas a tus preguntas en 8 nichos diferentes',
+        title: 'Prisma - Authority Platform',
+        description: 'Expertise from every angle. Curated guides and solutions for every niche.',
         type: 'website',
     },
 };
 
+import { ThemeProvider } from '@/context/ThemeContext';
 import { GoogleAnalytics } from '@next/third-parties/google';
 
 export default function RootLayout({
@@ -24,17 +25,20 @@ export default function RootLayout({
     return (
         <html lang="es">
             <body>
-                <Header />
-                <main>{children}</main>
-                <footer style={{
-                    textAlign: 'center',
-                    padding: '2rem',
-                    background: '#f7fafc',
-                    marginTop: '4rem'
-                }}>
-                    <p>© 2024 SEO Maestro. Todos los derechos reservados.</p>
-                </footer>
-                <GoogleAnalytics gaId="G-S880YQZ0QQ" />
+                <ThemeProvider>
+                    <Header />
+                    <main>{children}</main>
+                    <footer style={{
+                        textAlign: 'center',
+                        padding: '2rem',
+                        background: 'var(--surface)',
+                        marginTop: '4rem',
+                        borderTop: '1px solid rgba(0,0,0,0.05)'
+                    }}>
+                        <p style={{ color: 'var(--text)', opacity: 0.7 }}>© 2024 Prisma. Authority in every spectrum.</p>
+                    </footer>
+                    <GoogleAnalytics gaId="G-S880YQZ0QQ" />
+                </ThemeProvider>
             </body>
         </html>
     );

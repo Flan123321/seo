@@ -10,6 +10,26 @@ export interface LandingPageData {
     monetization_focus: string;
 }
 
+export type DesignMode = 'minimal' | 'playful' | 'tech' | 'organic' | 'elegant';
+
+export interface ThemeConfig {
+    mode: DesignMode;
+    palette: {
+        primary: string;
+        secondary: string;
+        surface: string;
+        text: string;
+        background: string;
+    };
+    typography: {
+        heading: string;
+        body: string;
+    };
+    shapes: {
+        borderRadius: string;
+    };
+}
+
 // Niche configuration
 export interface NicheConfig {
     id: string;
@@ -18,6 +38,7 @@ export interface NicheConfig {
     icon: string;
     color: string;
     dataFile: string;
+    theme: ThemeConfig;
 }
 
 // Aggregated data structure

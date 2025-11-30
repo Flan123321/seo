@@ -8,6 +8,10 @@ import CTAButton from '@/components/CTAButton';
 import ProductGrid from '@/components/ProductGrid';
 import RelatedPages from '@/components/RelatedPages';
 import styles from './page.module.css';
+import ThemeSetter from '@/components/ThemeSetter';
+import SolutionHero from '@/components/SolutionHero';
+import FeatureGrid from '@/components/FeatureGrid';
+import FAQAccordion from '@/components/FAQAccordion';
 
 interface PageProps {
     params: Promise<{
@@ -75,8 +79,33 @@ export default async function LandingPage({ params }: PageProps) {
         keywords: page.primary_keyword,
     };
 
+    // Prepare features from dynamic_data
+    const features = Object.entries(page.dynamic_data).map(([key, value]) => ({
+        title: key.split('_').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' '),
+        value: String(value)
+    })).slice(0, 3); // Take first 3 for the grid
+
+    // Prepare FAQ from metadata (Simple implementation)
+    const faqItems = [
+        {
+            question: `¿${page.primary_keyword}?`,
+            answer: page.meta_description
+        },
+        {
+            question: "¿Es esta información confiable?",
+            answer: "Sí, nuestros datos son verificados y actualizados constantemente para asegurar la mayor precisión en tus proyectos."
+        },
+        {
+            question: `¿Dónde puedo conseguir ${page.monetization_focus}?`,
+            answer: `Recomendamos buscar opciones de alta calidad. Puedes ver nuestra recomendación principal haciendo clic en el botón de abajo.`
+        }
+    ];
+
     return (
         <div className={styles.page}>
+            {/* Theme Setter */}
+            {niche?.theme && <ThemeSetter theme={niche.theme} />}
+
             {/* JSON-LD */}
             <script
                 type="application/ld+json"
@@ -84,49 +113,41 @@ export default async function LandingPage({ params }: PageProps) {
             />
 
             {/* Breadcrumb */}
-            <div className="container">
-                <nav className={styles.breadcrumb}>
-                    <Link href="/">Inicio</Link>
-                    <span className={styles.separator}>›</span>
-                    <span>{niche?.name || 'Guía'}</span>
+            <div className="container mx-auto px-4 py-4">
+                <nav className="text-sm opacity-60">
+                    <Link href="/" className="hover:underline">Inicio</Link>
+                    <span className="mx-2">›</span>
+                    <span className="font-medium">{niche?.name || 'Guía'}</span>
                 </nav>
             </div>
 
-            {/* Hero */}
-            <section className={styles.hero}>
-                <div className="container">
-                    {niche && (
-                        <div className={styles.badge} style={{ background: niche.color }}>
-                            {niche.icon} {niche.name}
-                        </div>
-                    )}
-                    <h1 className={styles.title}>{page.seo_title}</h1>
-                    <p className={styles.meta}>
-                        <span className={styles.intent}>{page.search_intent}</span>
-                        <span className={styles.separator}>•</span>
-                        <span className={styles.keyword}>{page.primary_keyword}</span>
-                    </p>
-                </div>
-            </section>
+            {/* Solution Hero */}
+            <SolutionHero
+                title={page.seo_title}
+                subtitle={page.hook_intro}
+                nicheName={niche?.name || ''}
+                nicheIcon={niche?.icon || ''}
+                primaryKeyword={page.primary_keyword}
+            />
 
             {/* Content */}
-            <article className={styles.content}>
-                <div className="container">
-                    {/* Hook Intro */}
-                    <div className={styles.intro}>
-                        <p className={styles.hookText}>{page.hook_intro}</p>
-                    </div>
+            <article className="py-12">
+                <div className="container mx-auto px-4">
 
-                    {/* Dynamic Data Grid */}
-                    <div className={styles.dataSection}>
-                        <h2 className={styles.sectionTitle}>Información Clave</h2>
+                    {/* Dynamic Data Grid (The "Answer") */}
+                    <div className="mb-16">
                         <DynamicDataGrid data={page.dynamic_data} />
                     </div>
 
+                    {/* Feature Grid */}
+                    <FeatureGrid features={features} />
+
                     {/* CTA */}
-                    <div className={styles.ctaSection}>
-                        <h2 className={styles.ctaTitle}>¿Listo para Obtener Esto?</h2>
-                        <p className={styles.ctaText}>
+                    <div className="my-16 text-center max-w-2xl mx-auto p-8 rounded-2xl bg-opacity-5" style={{ backgroundColor: 'var(--primary)' }}>
+                        <h2 className="text-2xl font-bold mb-4" style={{ fontFamily: 'var(--font-heading)' }}>
+                            ¿Listo para Obtener Esto?
+                        </h2>
+                        <p className="mb-8 opacity-80">
                             Encuentra el mejor <strong>{page.monetization_focus}</strong> con las mejores ofertas
                         </p>
                         <CTAButton
@@ -134,27 +155,37 @@ export default async function LandingPage({ params }: PageProps) {
                             href={affiliateLink}
                             external={true}
                         />
-                        <p className={styles.disclaimer}>
+                        <p className="text-xs mt-4 opacity-60">
                             * Enlaces de afiliado. Ganamos una pequeña comisión sin costo adicional para ti.
                         </p>
                     </div>
 
+                    {/* FAQ */}
+                    <FAQAccordion items={faqItems} />
+
                     {/* Product Recommendations */}
-                    <ProductGrid products={recommendations} />
+                    <div className="mt-16">
+                        <h2 className="text-2xl font-bold mb-8 text-center" style={{ fontFamily: 'var(--font-heading)' }}>
+                            Recomendados para ti
+                        </h2>
+                        <ProductGrid products={recommendations} />
+                    </div>
 
                     {/* Related Pages */}
                     {niche && (
-                        <RelatedPages
-                            currentSlug={slug}
-                            nicheId={niche.id}
-                            allPages={PAGES_BY_NICHE[niche.id] || []}
-                            maxPages={6}
-                        />
+                        <div className="mt-16 pt-8 border-t border-gray-100">
+                            <RelatedPages
+                                currentSlug={slug}
+                                nicheId={niche.id}
+                                allPages={PAGES_BY_NICHE[niche.id] || []}
+                                maxPages={6}
+                            />
+                        </div>
                     )}
 
                     {/* Back to Home */}
-                    <div className={styles.backSection}>
-                        <Link href="/" className={styles.backLink}>
+                    <div className="mt-12 text-center">
+                        <Link href="/" className="text-sm hover:underline opacity-60">
                             ← Volver al Inicio
                         </Link>
                     </div>

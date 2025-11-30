@@ -40,7 +40,24 @@ export const NICHES: NicheConfig[] = [
         description: 'Convierte medidas de ingredientes con precisión profesional',
         icon: '👨‍🍳',
         color: '#FF6B6B',
-        dataFile: 'conversiones-cocina.json'
+        dataFile: 'conversiones-cocina.json',
+        theme: {
+            mode: 'playful',
+            palette: {
+                primary: '#FF6B6B',
+                secondary: '#FFE66D',
+                surface: '#FFFDF5',
+                text: '#2D3436',
+                background: '#FFF9F0'
+            },
+            typography: {
+                heading: 'Playfair Display',
+                body: 'Nunito'
+            },
+            shapes: {
+                borderRadius: '16px'
+            }
+        }
     },
     {
         id: 'suenos-animales',
@@ -48,7 +65,24 @@ export const NICHES: NicheConfig[] = [
         description: 'Interpreta tus sueños con animales y descubre mensajes ocultos',
         icon: '🌙',
         color: '#4ECDC4',
-        dataFile: 'suenos-animales-parte1.json'
+        dataFile: 'suenos-animales-parte1.json',
+        theme: {
+            mode: 'elegant',
+            palette: {
+                primary: '#4ECDC4',
+                secondary: '#292F36',
+                surface: '#F7FFF7',
+                text: '#1A535C',
+                background: '#F0F7F4'
+            },
+            typography: {
+                heading: 'Cinzel',
+                body: 'Lato'
+            },
+            shapes: {
+                borderRadius: '8px'
+            }
+        }
     },
     {
         id: 'codigos-error',
@@ -56,7 +90,24 @@ export const NICHES: NicheConfig[] = [
         description: 'Soluciona errores de electrodomésticos sin llamar al técnico',
         icon: '🔧',
         color: '#95E1D3',
-        dataFile: 'codigos-error-electrodomesticos.json'
+        dataFile: 'codigos-error-electrodomesticos.json',
+        theme: {
+            mode: 'tech',
+            palette: {
+                primary: '#007AFF',
+                secondary: '#F5F5F7',
+                surface: '#FFFFFF',
+                text: '#1D1D1F',
+                background: '#F2F2F7'
+            },
+            typography: {
+                heading: 'Inter',
+                body: 'Inter'
+            },
+            shapes: {
+                borderRadius: '6px'
+            }
+        }
     },
     {
         id: 'neumaticos-autos',
@@ -64,7 +115,24 @@ export const NICHES: NicheConfig[] = [
         description: 'Encuentra la medida exacta de neumáticos para tu vehículo',
         icon: '🚗',
         color: '#F38181',
-        dataFile: 'medidas-neumaticos-autos.json'
+        dataFile: 'medidas-neumaticos-autos.json',
+        theme: {
+            mode: 'tech',
+            palette: {
+                primary: '#D63031',
+                secondary: '#2D3436',
+                surface: '#FFFFFF',
+                text: '#2D3436',
+                background: '#F5F6FA'
+            },
+            typography: {
+                heading: 'Roboto',
+                body: 'Open Sans'
+            },
+            shapes: {
+                borderRadius: '4px'
+            }
+        }
     },
     {
         id: 'suplementos',
@@ -72,7 +140,24 @@ export const NICHES: NicheConfig[] = [
         description: 'Compara suplementos deportivos con ciencia real',
         icon: '💪',
         color: '#AA96DA',
-        dataFile: 'comparativas-suplementos.json'
+        dataFile: 'comparativas-suplementos.json',
+        theme: {
+            mode: 'tech',
+            palette: {
+                primary: '#6C5CE7',
+                secondary: '#A29BFE',
+                surface: '#FFFFFF',
+                text: '#2D3436',
+                background: '#F8F9FA'
+            },
+            typography: {
+                heading: 'Oswald',
+                body: 'Roboto'
+            },
+            shapes: {
+                borderRadius: '0px'
+            }
+        }
     },
     {
         id: 'plantas-medicinales',
@@ -80,7 +165,24 @@ export const NICHES: NicheConfig[] = [
         description: 'Descubre los usos y beneficios de plantas naturales',
         icon: '🌿',
         color: '#FCBAD3',
-        dataFile: 'plantas-medicinales-usos.json'
+        dataFile: 'plantas-medicinales-usos.json',
+        theme: {
+            mode: 'organic',
+            palette: {
+                primary: '#2D6A4F',
+                secondary: '#D8F3DC',
+                surface: '#FFFFFF',
+                text: '#1B4332',
+                background: '#F1FAEE'
+            },
+            typography: {
+                heading: 'Merriweather',
+                body: 'Lora'
+            },
+            shapes: {
+                borderRadius: '24px'
+            }
+        }
     },
     {
         id: 'repuestos-celulares',
@@ -88,7 +190,24 @@ export const NICHES: NicheConfig[] = [
         description: 'Guías de reparación y repuestos compatibles',
         icon: '📱',
         color: '#FFFFD2',
-        dataFile: 'repuestos-celulares.json'
+        dataFile: 'repuestos-celulares.json',
+        theme: {
+            mode: 'tech',
+            palette: {
+                primary: '#0984E3',
+                secondary: '#74B9FF',
+                surface: '#FFFFFF',
+                text: '#2D3436',
+                background: '#DFE6E9'
+            },
+            typography: {
+                heading: 'Space Grotesk',
+                body: 'Inter'
+            },
+            shapes: {
+                borderRadius: '8px'
+            }
+        }
     },
     {
         id: 'numerologia',
@@ -96,7 +215,24 @@ export const NICHES: NicheConfig[] = [
         description: 'Interpreta números repetitivos y mensajes angelicales',
         icon: '✨',
         color: '#A8D8EA',
-        dataFile: 'significado-numeros-numerologia.json'
+        dataFile: 'significado-numeros-numerologia.json',
+        theme: {
+            mode: 'elegant',
+            palette: {
+                primary: '#6C5CE7',
+                secondary: '#A29BFE',
+                surface: '#FFFFFF',
+                text: '#2D3436',
+                background: '#F3E5F5'
+            },
+            typography: {
+                heading: 'Cormorant Garamond',
+                body: 'Montserrat'
+            },
+            shapes: {
+                borderRadius: '12px'
+            }
+        }
     }
 ];
 
